@@ -312,6 +312,24 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Mira": {
       "ability": "Static",
+      "index": 307,
+      "item": "Choice Specs",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "36",
+      "moves": [
+        "Thunderbolt"
+      ],
+      "nature": "Modest"
+    },
+    "PKMN Trainer Mira Partner": {
+      "ability": "Static",
       "index": 311,
       "item": "Choice Specs",
       "ivs": {
@@ -1768,6 +1786,27 @@ var SETDEX_SS = {
       "nature": "Bold"
     },
     "PKMN Trainer Cheryl": {
+      "ability": "Natural Cure",
+      "index": 149,
+      "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "24",
+      "moves": [
+        "Soft-Boiled",
+        "Toxic",
+        "Counter",
+        "Mirror Coat"
+      ],
+      "nature": "Bold"
+    },
+    "PKMN Trainer Cheryl Partner": {
       "ability": "Natural Cure",
       "index": 151,
       "item": "Leftovers",
@@ -3636,7 +3675,7 @@ var SETDEX_SS = {
       "nature": "Quiet"
     }
   },
-  "Farfetch\u2019d": {
+  "Farfetch'd": {
     "Jogger Richard": {
       "ability": "Inner Focus",
       "index": 411,
@@ -4886,6 +4925,27 @@ var SETDEX_SS = {
   "Grovyle": {
     "PKMN Trainer Cheryl": {
       "ability": "Unburden",
+      "index": 148,
+      "item": "Rawst Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "24",
+      "moves": [
+        "Leaf Blade",
+        "Brick Break",
+        "Rock Tomb",
+        "Night Slash"
+      ],
+      "nature": "Lonely"
+    },
+    "PKMN Trainer Cheryl Partner": {
+      "ability": "Unburden",
       "index": 152,
       "item": "Muscle Band",
       "ivs": {
@@ -5812,6 +5872,27 @@ var SETDEX_SS = {
   },
   "Jynx": {
     "PKMN Trainer Mira": {
+      "ability": "Unburden",
+      "index": 306,
+      "item": "Psychic Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "36",
+      "moves": [
+        "Psychic",
+        "Ice Beam",
+        "Focus Blast",
+        "Fake Out"
+      ],
+      "nature": "Mild"
+    },
+    "PKMN Trainer Mira Partner": {
       "ability": "Unburden",
       "index": 312,
       "item": "Psychic Gem",
@@ -8085,6 +8166,27 @@ var SETDEX_SS = {
   "Mothim": {
     "PKMN Trainer Cheryl": {
       "ability": "Tinted Lens",
+      "index": 147,
+      "item": "Lagging Tail",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "24",
+      "moves": [
+        "Signal Beam",
+        "Air Slash",
+        "Psybeam",
+        "Giga Drain"
+      ],
+      "nature": "Hardy"
+    },
+    "PKMN Trainer Cheryl Partner": {
+      "ability": "Tinted Lens",
       "index": 150,
       "item": "Wise Glasses",
       "ivs": {
@@ -9332,6 +9434,27 @@ var SETDEX_SS = {
   },
   "Porygon2": {
     "PKMN Trainer Mira": {
+      "ability": "Analytic",
+      "index": 304,
+      "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "36",
+      "moves": [
+        "Tri Attack",
+        "Thunderbolt",
+        "Ice Beam",
+        "Nasty Plot"
+      ],
+      "nature": "Quiet"
+    },
+    "PKMN Trainer Mira Partner": {
       "ability": "Analytic",
       "index": 310,
       "item": "Focus Sash",
