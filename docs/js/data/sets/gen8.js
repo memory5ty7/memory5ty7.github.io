@@ -2,8 +2,16 @@ var SETDEX_SS = {
   "Abomasnow": {
     "Black Belt Derek": {
       "ability": "Soundproof",
-      "index": 431,
+      "index": 511,
       "item": "Never-Melt Ice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Ice Beam",
@@ -15,8 +23,16 @@ var SETDEX_SS = {
     },
     "Cyclist James": {
       "ability": "Thick Fat",
-      "index": 32,
+      "index": 237,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Ice Shard",
@@ -30,8 +46,16 @@ var SETDEX_SS = {
   "Absol": {
     "Black Belt Jeffery": {
       "ability": "Super Luck",
-      "index": 463,
+      "index": 543,
       "item": "Scope Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "48",
       "moves": [
         "Superpower",
@@ -40,13 +64,42 @@ var SETDEX_SS = {
         "Megahorn"
       ],
       "nature": "Jolly"
+    },
+    "Elite Four Lucian": {
+      "ability": "Sharpness",
+      "index": 594,
+      "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Night Slash",
+        "Psycho Cut",
+        "Close Combat",
+        "Sucker Punch"
+      ],
+      "nature": "Adamant"
     }
   },
   "Aerodactyl": {
     "Hiker Kevin": {
       "ability": "Rock Head",
-      "index": 66,
+      "index": 271,
       "item": "Sharp Beak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Rock Slide",
@@ -60,8 +113,16 @@ var SETDEX_SS = {
   "Aggron": {
     "Black Belt Darren": {
       "ability": "Rock Head",
-      "index": 454,
+      "index": 534,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Rock Slide",
@@ -74,8 +135,16 @@ var SETDEX_SS = {
     "K": {},
     "PKMN Trainer Conway #2": {
       "ability": "Rock Head",
-      "index": 178,
+      "index": 383,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Rock Tomb",
@@ -89,8 +158,16 @@ var SETDEX_SS = {
   "Aipom": {
     "Camper Zackary": {
       "ability": "Technician",
-      "index": 249,
+      "index": 131,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "23",
       "moves": [
         "Double Hit",
@@ -102,8 +179,16 @@ var SETDEX_SS = {
     },
     "Youngster Tristan": {
       "ability": "Technician",
-      "index": 483,
+      "index": 9,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "7",
       "moves": [
         "Payback"
@@ -114,8 +199,16 @@ var SETDEX_SS = {
   "Alakazam": {
     "Pok\u00e9fan Leonard": {
       "ability": "Synchronize",
-      "index": 360,
+      "index": 440,
       "item": "Colbur Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Psychic",
@@ -130,8 +223,16 @@ var SETDEX_SS = {
     "A": {},
     "Ace Trainer Maya": {
       "ability": "Natural Cure",
-      "index": 447,
+      "index": 527,
       "item": "Sharp Beak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Air Slash",
@@ -144,8 +245,16 @@ var SETDEX_SS = {
     "P": {},
     "PKMN Trainer Nando #2": {
       "ability": "Natural Cure",
-      "index": 168,
+      "index": 373,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Lava Plume",
@@ -159,8 +268,16 @@ var SETDEX_SS = {
   "Ambipom": {
     "Black Belt Nathaniel": {
       "ability": "Technician",
-      "index": 439,
+      "index": 519,
       "item": "Silk Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Fake Out",
@@ -172,10 +289,39 @@ var SETDEX_SS = {
     }
   },
   "Ampharos": {
+    "Galactic Grunt #5 Eterna Building": {
+      "ability": "Static",
+      "index": 219,
+      "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Discharge",
+        "Power Gem",
+        "Hidden Power Ice",
+        "Endeavor"
+      ],
+      "nature": "Modest"
+    },
     "PKMN Trainer Mira": {
       "ability": "Static",
-      "index": 106,
+      "index": 311,
       "item": "Choice Specs",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Thunderbolt"
@@ -186,8 +332,16 @@ var SETDEX_SS = {
   "Anorith": {
     "PKMN Trainer Nando": {
       "ability": "Battle Armor",
-      "index": 224,
+      "index": 106,
       "item": "Rocky Helmet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Rock Tomb",
@@ -197,10 +351,19 @@ var SETDEX_SS = {
       ],
       "nature": "Adamant"
     },
+    "Y": {},
     "Youngster Darius": {
       "ability": "Battle Armor",
-      "index": 547,
+      "index": 74,
       "item": "Berry Juice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Bug Bite",
@@ -209,29 +372,21 @@ var SETDEX_SS = {
         "Swagger"
       ],
       "nature": "Jolly"
-    },
-    "o": {}
-  },
-  "Arbok": {
-    "Galactic Grunt #3 (Eterna Building)": {
-      "ability": "Intimidate",
-      "index": 7,
-      "item": "Sitrus Berry",
-      "level": "30",
-      "moves": [
-        "Poison Fang",
-        "Seed Bomb",
-        "Rock Tomb",
-        "Psychic Fangs"
-      ],
-      "nature": "Adamant"
     }
   },
   "Arcanine": {
     "Cyclist Nicole": {
       "ability": "Intimidate",
-      "index": 37,
+      "index": 242,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Flare Blitz",
@@ -241,10 +396,39 @@ var SETDEX_SS = {
       ],
       "nature": "Adamant"
     },
+    "Elite Four Flint Double": {
+      "ability": "Intimidate",
+      "index": 589,
+      "item": "Mental Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Heat Wave",
+        "Solar Beam",
+        "Extreme Speed",
+        "Sunny Day"
+      ],
+      "nature": "Quirky"
+    },
     "Hiker Justin": {
       "ability": "Intimidate",
-      "index": 59,
+      "index": 264,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Flame Charge",
@@ -255,11 +439,63 @@ var SETDEX_SS = {
       "nature": "Jolly"
     }
   },
+  "Arceus": {
+    "Champion Cynthia": {
+      "ability": "Multitype",
+      "index": 607,
+      "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Judgment",
+        "Meteor Beam",
+        "Dark Pulse",
+        "Extreme Speed"
+      ],
+      "nature": "Quirky"
+    }
+  },
   "Ariados": {
+    "Scientist Travon": {
+      "ability": "Sniper",
+      "index": 222,
+      "item": "Loaded Dice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "31",
+      "moves": [
+        "Cross Poison",
+        "Pin Missile",
+        "Sucker Punch",
+        "Sticky Web"
+      ],
+      "nature": "Jolly"
+    },
     "Youngster Oliver": {
       "ability": "Sniper",
-      "index": 356,
+      "index": 436,
       "item": "Poison Barb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Poison Jab",
@@ -271,10 +507,39 @@ var SETDEX_SS = {
     }
   },
   "Armaldo": {
+    "Elite Four Aaron Double": {
+      "ability": "Swift Swim",
+      "index": 566,
+      "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Rock Slide",
+        "Leech Life",
+        "Liquidation",
+        "Knock Off"
+      ],
+      "nature": "Careful"
+    },
     "Jogger Richard": {
       "ability": "Swift Swim",
-      "index": 328,
+      "index": 408,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "First Impression",
@@ -286,8 +551,16 @@ var SETDEX_SS = {
     },
     "Ruin Maniac Gerald": {
       "ability": "Swift Swim",
-      "index": 98,
+      "index": 303,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Aqua Jet",
@@ -302,8 +575,16 @@ var SETDEX_SS = {
   "Aron": {
     "Hiker Robert": {
       "ability": "Sturdy",
-      "index": 136,
+      "index": 341,
       "item": "Shell Bell",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "1",
       "moves": [
         "Endeavor"
@@ -312,8 +593,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Conway": {
       "ability": "Rock Head",
-      "index": 503,
+      "index": 29,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Rock Tomb",
@@ -324,11 +613,63 @@ var SETDEX_SS = {
       "nature": "Relaxed"
     }
   },
+  "Azelf": {
+    "Elite Four Lucian": {
+      "ability": "Levitate",
+      "index": 595,
+      "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Psychic",
+        "Fire Blast",
+        "U-Turn",
+        "Reflect"
+      ],
+      "nature": "Modest"
+    }
+  },
   "Azumarill": {
+    "Commander Jupiter": {
+      "ability": "Sap Sipper",
+      "index": 229,
+      "item": "Wacan Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "32",
+      "moves": [
+        "Chilling Water",
+        "Whirlpool",
+        "Protect",
+        "Perish Song"
+      ],
+      "nature": "Calm"
+    },
     "Youngster Oliver": {
       "ability": "Huge Power",
-      "index": 355,
+      "index": 435,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Aqua Jet",
@@ -342,8 +683,16 @@ var SETDEX_SS = {
   "Bagon": {
     "Hunter ???": {
       "ability": "Rock Head",
-      "index": 543,
+      "index": 72,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Rock Smash",
@@ -357,8 +706,16 @@ var SETDEX_SS = {
   "Banette": {
     "Black Belt Nathaniel": {
       "ability": "Prankster",
-      "index": 437,
+      "index": 517,
       "item": "Colbur Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Shadow Ball",
@@ -368,10 +725,39 @@ var SETDEX_SS = {
       ],
       "nature": "Bold"
     },
+    "Commander Jupiter": {
+      "ability": "Cursed Body",
+      "index": 226,
+      "item": "Spell Tag",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "32",
+      "moves": [
+        "Shadow Claw",
+        "Facade ",
+        "Confuse Ray",
+        "Curse"
+      ],
+      "nature": "Impish"
+    },
     "Picnicker Tori": {
       "ability": "Prankster",
-      "index": 85,
+      "index": 290,
       "item": "Blunder Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Gunk Shot",
@@ -381,23 +767,18 @@ var SETDEX_SS = {
       ],
       "nature": "Naive"
     },
-    "Scientist Travon": {
-      "ability": "Prankster",
-      "index": 19,
-      "item": "Sitrus Berry",
-      "level": "31",
-      "moves": [
-        "Skill Swap",
-        "Will-O-Wisp",
-        "Sucker Punch",
-        "Shadow Claw"
-      ],
-      "nature": "Brave"
-    },
     "Youngster Donny": {
       "ability": "Prankster",
-      "index": 183,
+      "index": 388,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Will-O-Wisp",
@@ -413,8 +794,16 @@ var SETDEX_SS = {
     "H": {},
     "Hiker Reginald": {
       "ability": "Soundproof",
-      "index": 75,
+      "index": 280,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Metal Burst",
@@ -426,8 +815,16 @@ var SETDEX_SS = {
     },
     "Hiker Theodore": {
       "ability": "Sturdy",
-      "index": 54,
+      "index": 259,
       "item": "Red Card",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Stealth Rock",
@@ -440,9 +837,17 @@ var SETDEX_SS = {
   },
   "Beautifly": {
     "Cyclist Axel": {
-      "ability": "Tinted Lens",
-      "index": 27,
+      "ability": "Flare Boost",
+      "index": 232,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Psybeam",
@@ -453,9 +858,17 @@ var SETDEX_SS = {
       "nature": "Timid"
     },
     "Rancher Marco": {
-      "ability": "Tinted Lens",
-      "index": 394,
+      "ability": "Flare Boost",
+      "index": 474,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "44",
       "moves": [
         "Air Slash",
@@ -470,8 +883,16 @@ var SETDEX_SS = {
     "B": {},
     "Bug Catcher Jack": {
       "ability": "Sniper",
-      "index": 273,
+      "index": 155,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Aerial Ace",
@@ -481,10 +902,18 @@ var SETDEX_SS = {
       ],
       "nature": "Lonely"
     },
-    "Galactic Grunt #1 (Valley Windworks)": {
+    "Galactic Grunt #1 Valley Windworks": {
       "ability": "Sniper",
-      "index": 233,
+      "index": 115,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "19",
       "moves": [
         "Bug Bite",
@@ -495,8 +924,16 @@ var SETDEX_SS = {
     },
     "Youngster Tyler": {
       "ability": "Adaptability",
-      "index": 496,
+      "index": 22,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Bug Bite",
@@ -509,8 +946,16 @@ var SETDEX_SS = {
   "Beldum": {
     "Leader Roark": {
       "ability": "Clear Body",
-      "index": 551,
+      "index": 80,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "16",
       "moves": [
         "Zen Headbutt",
@@ -521,12 +966,43 @@ var SETDEX_SS = {
       "nature": "Impish"
     }
   },
+  "Bellossom": {
+    "Galactic Grunt #5 Eterna Building": {
+      "ability": "Triage",
+      "index": 220,
+      "item": "Big Root",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Giga Drain",
+        "Sludge Bomb",
+        "Hidden Power Fire",
+        "Moonlight"
+      ],
+      "nature": "Modest"
+    }
+  },
   "Bibarel": {
     "B": {},
     "Bug Catcher Phillip": {
       "ability": "Unaware",
-      "index": 281,
+      "index": 163,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Swords Dance",
@@ -535,10 +1011,39 @@ var SETDEX_SS = {
       ],
       "nature": "Brave"
     },
+    "Galactic Grunt #4 Eterna Building": {
+      "ability": "Moody",
+      "index": 216,
+      "item": "Clear Amulet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Take Down",
+        "Aqua Jet",
+        "Super Fang",
+        "Attract"
+      ],
+      "nature": "Adamant"
+    },
     "PKMN Breeder Albert": {
       "ability": "Unaware",
-      "index": 327,
+      "index": 407,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Aqua Jet",
@@ -550,8 +1055,16 @@ var SETDEX_SS = {
   "Bidoof": {
     "Youngster Tristan": {
       "ability": "Unaware",
-      "index": 481,
+      "index": 7,
       "item": "Berry Juice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "7",
       "moves": [
         "Thunderbolt",
@@ -563,8 +1076,16 @@ var SETDEX_SS = {
   "Blaziken": {
     "Black Belt Colby": {
       "ability": "Inner Focus",
-      "index": 464,
+      "index": 544,
       "item": "Sharp Beak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "49",
       "moves": [
         "Blaze Kick",
@@ -576,8 +1097,16 @@ var SETDEX_SS = {
     },
     "Black Belt Kyle": {
       "ability": "Inner Focus",
-      "index": 130,
+      "index": 335,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Blaze Kick",
@@ -587,10 +1116,39 @@ var SETDEX_SS = {
       ],
       "nature": "Jolly"
     },
+    "Elite Four Flint": {
+      "ability": "Speed Boost",
+      "index": 583,
+      "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Sky Uppercut",
+        "Blaze Kick",
+        "Substitute",
+        "Bulk Up"
+      ],
+      "nature": "Careful"
+    },
     "PKMN Trainer Barry #4 chimchar": {
       "ability": "Inner Focus",
-      "index": 389,
+      "index": 469,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Blaze Kick",
@@ -601,11 +1159,41 @@ var SETDEX_SS = {
       "nature": "Jolly"
     }
   },
+  "Bonsly": {
+    "Veteran Grant": {
+      "ability": "Sturdy",
+      "index": 68,
+      "item": "Salac Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "14",
+      "moves": [
+        "Rock Tomb",
+        "Headbutt",
+        "Counter"
+      ],
+      "nature": "Jolly"
+    }
+  },
   "Breloom": {
     "Aroma Lady Angela": {
       "ability": "Poison Heal",
-      "index": 318,
+      "index": 200,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "29",
       "moves": [
         "Seed Bomb",
@@ -616,8 +1204,16 @@ var SETDEX_SS = {
     "B": {},
     "Belle & Pa Beth & Bob": {
       "ability": "Poison Heal",
-      "index": 369,
+      "index": 449,
       "item": "Miracle Seed",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Mach Punch",
@@ -629,8 +1225,16 @@ var SETDEX_SS = {
     },
     "Black Belt Kyle": {
       "ability": "Poison Heal",
-      "index": 131,
+      "index": 336,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Mach Punch",
@@ -642,8 +1246,16 @@ var SETDEX_SS = {
     },
     "Black Belt Sakai": {
       "ability": "Poison Heal",
-      "index": 161,
+      "index": 366,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "38",
       "moves": [
         "Mach Punch",
@@ -655,8 +1267,16 @@ var SETDEX_SS = {
     },
     "Leader Maylene": {
       "ability": "Poison Heal",
-      "index": 470,
+      "index": 550,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "50",
       "moves": [
         "Seed Bomb",
@@ -668,8 +1288,16 @@ var SETDEX_SS = {
     },
     "Ninja Boy Zach": {
       "ability": "Poison Heal",
-      "index": 300,
+      "index": 182,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Mach Punch",
@@ -681,23 +1309,39 @@ var SETDEX_SS = {
     }
   },
   "Bronzong": {
-    "Galactic Grunt #1 (Eterna Building)": {
+    "Elite Four Lucian": {
       "ability": "Levitate",
-      "index": 2,
-      "item": "Leftovers",
-      "level": "29",
+      "index": 591,
+      "item": "Light Clay",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
       "moves": [
-        "Extrasensory",
         "Gyro Ball",
-        "Hypnosis",
-        "Calm Mind"
+        "Future Sight",
+        "Light Screen",
+        "Reflect"
       ],
       "nature": "Relaxed"
     },
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Levitate",
-      "index": 115,
+      "index": 320,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Extrasensory",
@@ -711,8 +1355,16 @@ var SETDEX_SS = {
   "Bronzor": {
     "Commander Mars": {
       "ability": "Heatproof",
-      "index": 242,
+      "index": 124,
       "item": "Air Balloon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "20",
       "moves": [
         "Zen Headbutt",
@@ -726,8 +1378,16 @@ var SETDEX_SS = {
   "Bulbasaur": {
     "PKMN Trainer Barry #2 turtwig": {
       "ability": "Chlorophyll",
-      "index": 508,
+      "index": 34,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Absorb",
@@ -740,8 +1400,16 @@ var SETDEX_SS = {
   "Butterfree": {
     "Youngster Austin": {
       "ability": "Compound Eyes",
-      "index": 71,
+      "index": 276,
       "item": "Charti Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Sleep Powder",
@@ -755,8 +1423,16 @@ var SETDEX_SS = {
   "Cacnea": {
     "Camper Curtis": {
       "ability": "Rough Skin",
-      "index": 529,
+      "index": 55,
       "item": "Rocky Helmet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Thunder Punch",
@@ -767,10 +1443,39 @@ var SETDEX_SS = {
     }
   },
   "Cacturne": {
+    "Galactic Grunt #2 Eterna Building": {
+      "ability": "Rough Skin",
+      "index": 212,
+      "item": "King's Rock",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Bullet Seed",
+        "Sucker Punch",
+        "Pin Missile",
+        "Fling"
+      ],
+      "nature": "Adamant"
+    },
     "Hiker Lorenzo": {
       "ability": "Rough Skin",
-      "index": 79,
+      "index": 284,
       "item": "Miracle Seed",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Bullet Seed",
@@ -782,8 +1487,16 @@ var SETDEX_SS = {
     },
     "Jogger Craig": {
       "ability": "Rough Skin",
-      "index": 427,
+      "index": 507,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Seed Bomb",
@@ -795,8 +1508,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Rough Skin",
-      "index": 123,
+      "index": 328,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Seed Bomb",
@@ -809,23 +1530,39 @@ var SETDEX_SS = {
     "i": {}
   },
   "Camerupt": {
-    "Galactic Grunt #3 (Eterna Building)": {
-      "ability": "Solid Rock",
-      "index": 9,
-      "item": "Passho Berry",
+    "Galactic Grunt #5 Eterna Building": {
+      "ability": "Magma Armor",
+      "index": 221,
+      "item": "Quick Claw",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "30",
       "moves": [
-        "Yawn",
-        "Bulldoze",
+        "Earth Power",
         "Flamethrower",
-        "Flame Charge"
+        "Rock Slide",
+        "Substitute"
       ],
       "nature": "Quiet"
     },
     "Hunter J #2": {
       "ability": "Solid Rock",
-      "index": 382,
+      "index": 462,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Heat Wave",
@@ -837,8 +1574,16 @@ var SETDEX_SS = {
     },
     "Pok\u00e9 Kid Danielle": {
       "ability": "Solid Rock",
-      "index": 339,
+      "index": 419,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Heat Wave",
@@ -852,8 +1597,16 @@ var SETDEX_SS = {
   "Carnivine": {
     "Aroma Lady Jenna": {
       "ability": "Levitate",
-      "index": 315,
+      "index": 197,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Leaf Blade",
@@ -863,23 +1616,18 @@ var SETDEX_SS = {
       ],
       "nature": "Naive"
     },
-    "Galactic Grunt #4 (Eterna Building)": {
-      "ability": "Levitate",
-      "index": 13,
-      "item": "Occa Berry",
-      "level": "30",
-      "moves": [
-        "Giga Drain",
-        "Leech Life",
-        "Crunch",
-        "Leech Seed"
-      ],
-      "nature": "Brave"
-    },
     "Rancher Marco": {
       "ability": "Levitate",
-      "index": 393,
+      "index": 473,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "44",
       "moves": [
         "Seed Bomb",
@@ -891,10 +1639,18 @@ var SETDEX_SS = {
     }
   },
   "Carvanha": {
-    "Galactic Grunt #2 (Floaroma Meadow)": {
+    "Galactic Grunt #2 Floaroma Meadow": {
       "ability": "Speed Boost",
-      "index": 230,
+      "index": 112,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Flip Turn",
@@ -906,8 +1662,16 @@ var SETDEX_SS = {
     },
     "Youngster Sebastian": {
       "ability": "Speed Boost",
-      "index": 522,
+      "index": 48,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "12",
       "moves": [
         "Flip Turn"
@@ -918,8 +1682,16 @@ var SETDEX_SS = {
   "Cascoon": {
     "Lass Samantha": {
       "ability": "Shed Skin",
-      "index": 494,
+      "index": 20,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Bug Bite",
@@ -931,8 +1703,16 @@ var SETDEX_SS = {
   "Castform": {
     "Aroma Lady Hannah": {
       "ability": "Cloud Nine",
-      "index": 139,
+      "index": 344,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Weather Ball",
@@ -943,11 +1723,42 @@ var SETDEX_SS = {
       "nature": "Modest"
     }
   },
+  "Celebi": {
+    "Elite Four Aaron": {
+      "ability": "Filter",
+      "index": 560,
+      "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Psychic",
+        "Giga Drain",
+        "Leech Seed",
+        "Substitute"
+      ],
+      "nature": "Bold"
+    }
+  },
   "Chansey": {
     "Lass Madeline": {
       "ability": "Natural Cure",
-      "index": 526,
+      "index": 52,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Seismic Toss",
@@ -958,8 +1769,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Cheryl": {
       "ability": "Natural Cure",
-      "index": 269,
+      "index": 151,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Soft-Boiled",
@@ -971,10 +1790,39 @@ var SETDEX_SS = {
     }
   },
   "Charizard": {
+    "Elite Four Flint Double": {
+      "ability": "Solar Power",
+      "index": 585,
+      "item": "Fire Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Flamethrower",
+        "Air Slash",
+        "Focus Blast",
+        "Tailwind"
+      ],
+      "nature": "Timid"
+    },
     "Pok\u00e9fan Rebekah": {
       "ability": "Solar Power",
-      "index": 366,
+      "index": 446,
       "item": "Flying Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Scorching Sands",
@@ -988,8 +1836,16 @@ var SETDEX_SS = {
   "Chatot": {
     "Artist William": {
       "ability": "Trace",
-      "index": 142,
+      "index": 347,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Heat Wave",
@@ -1001,8 +1857,16 @@ var SETDEX_SS = {
     },
     "Picnicker Lauren": {
       "ability": "Trace",
-      "index": 65,
+      "index": 270,
       "item": "Wacan Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Ominous Wind",
@@ -1017,8 +1881,16 @@ var SETDEX_SS = {
   "Cherrim": {
     "Camper Parker": {
       "ability": "Flower Gift",
-      "index": 94,
+      "index": 299,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Solar Beam",
@@ -1033,8 +1905,16 @@ var SETDEX_SS = {
   "Chimchar": {
     "PKMN Trainer Barry #2 turtwig": {
       "ability": "Iron Fist",
-      "index": 507,
+      "index": 33,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Flame Wheel",
@@ -1045,8 +1925,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Barry turtwig": {
       "ability": "Iron Fist",
-      "index": 475,
+      "index": 1,
       "item": "-",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "5",
       "moves": [
         "Scratch",
@@ -1056,8 +1944,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul piplup": {
       "ability": "Iron Fist",
-      "index": 153,
+      "index": 358,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Protect"
@@ -1068,8 +1964,16 @@ var SETDEX_SS = {
   "Chimecho": {
     "Artist William": {
       "ability": "Levitate",
-      "index": 143,
+      "index": 348,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Psychic",
@@ -1081,8 +1985,16 @@ var SETDEX_SS = {
     },
     "Hiker Nicholas": {
       "ability": "Levitate",
-      "index": 255,
+      "index": 137,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Confusion",
@@ -1094,8 +2006,16 @@ var SETDEX_SS = {
   "Chinchou": {
     "Aroma Lady Elizabeth": {
       "ability": "Volt Absorb",
-      "index": 247,
+      "index": 129,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Parabolic Charge",
@@ -1110,8 +2030,16 @@ var SETDEX_SS = {
     "C": {},
     "Camper Diego": {
       "ability": "Levitate",
-      "index": 82,
+      "index": 287,
       "item": "Weakness Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Extrasensory",
@@ -1123,8 +2051,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Levitate",
-      "index": 121,
+      "index": 326,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Extrasensory",
@@ -1138,8 +2074,16 @@ var SETDEX_SS = {
   "Clefable": {
     "Aroma Lady Jenna": {
       "ability": "Magic Guard",
-      "index": 313,
+      "index": 195,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Follow Me",
@@ -1151,8 +2095,16 @@ var SETDEX_SS = {
   "Clefairy": {
     "Bug Catcher Donald": {
       "ability": "Magic Guard",
-      "index": 282,
+      "index": 164,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Follow Me",
@@ -1162,8 +2114,16 @@ var SETDEX_SS = {
     },
     "Youngster Sebastian": {
       "ability": "Magic Guard",
-      "index": 521,
+      "index": 47,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Follow Me",
@@ -1174,26 +2134,19 @@ var SETDEX_SS = {
     },
     "u": {}
   },
-  "Combusken": {
-    "Galactic Grunt #2 (Eterna Building)": {
-      "ability": "Inner Focus",
-      "index": 5,
-      "item": "Focus Sash",
-      "level": "30",
-      "moves": [
-        "Fire Punch",
-        "Thunder Punch",
-        "Double Kick",
-        "Detect"
-      ],
-      "nature": "Jolly"
-    }
-  },
   "Corsola": {
     "Belle & Pa Ava & Matt": {
       "ability": "Natural Cure",
-      "index": 401,
+      "index": 481,
       "item": "Zoom Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Hydro Pump",
@@ -1205,8 +2158,16 @@ var SETDEX_SS = {
     },
     "Hiker Justin": {
       "ability": "Natural Cure",
-      "index": 58,
+      "index": 263,
       "item": "Rindo Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Scald",
@@ -1218,8 +2179,16 @@ var SETDEX_SS = {
     },
     "Leader Roark": {
       "ability": "Hustle",
-      "index": 552,
+      "index": 81,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "16",
       "moves": [
         "Bubble Beam",
@@ -1233,8 +2202,16 @@ var SETDEX_SS = {
   "Cradily": {
     "Belle & Pa Ava & Matt": {
       "ability": "Suction Cups",
-      "index": 402,
+      "index": 482,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Solar Beam",
@@ -1246,8 +2223,16 @@ var SETDEX_SS = {
     },
     "Ruin Maniac Gerald": {
       "ability": "Suction Cups",
-      "index": 97,
+      "index": 302,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Giga Drain",
@@ -1262,8 +2247,16 @@ var SETDEX_SS = {
   "Cranidos": {
     "Hiker Louis": {
       "ability": "Rock Head",
-      "index": 304,
+      "index": 189,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Head Smash"
@@ -1272,8 +2265,16 @@ var SETDEX_SS = {
     },
     "Leader Roark": {
       "ability": "Mold Breaker",
-      "index": 553,
+      "index": 82,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "16",
       "moves": [
         "Rock Tomb",
@@ -1285,10 +2286,39 @@ var SETDEX_SS = {
     }
   },
   "Crawdaunt": {
+    "Elite Four Lucian Double": {
+      "ability": "Adaptability",
+      "index": 599,
+      "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Crabhammer",
+        "Knock Off",
+        "Close Combat",
+        "Aqua Jet"
+      ],
+      "nature": "Brave"
+    },
     "Jogger Craig": {
       "ability": "Adaptability",
-      "index": 429,
+      "index": 509,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Crabhammer",
@@ -1302,8 +2332,16 @@ var SETDEX_SS = {
   "Croagunk": {
     "Hiker Daniel": {
       "ability": "Poison Touch",
-      "index": 244,
+      "index": 126,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Low Sweep",
@@ -1315,8 +2353,16 @@ var SETDEX_SS = {
     },
     "Ninja Boy Zach": {
       "ability": "Poison Touch",
-      "index": 299,
+      "index": 181,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Fake Out",
@@ -1330,8 +2376,16 @@ var SETDEX_SS = {
   "Crobat": {
     "Black Belt Darren": {
       "ability": "Inner Focus",
-      "index": 452,
+      "index": 532,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Dual Wingbeat",
@@ -1343,8 +2397,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Inner Focus",
-      "index": 114,
+      "index": 319,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Cross Poison",
@@ -1356,8 +2418,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Inner Focus",
-      "index": 120,
+      "index": 325,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Cross Poison",
@@ -1369,8 +2439,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Inner Focus",
-      "index": 108,
+      "index": 313,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Cross Poison",
@@ -1382,8 +2460,16 @@ var SETDEX_SS = {
     },
     "Picnicker Lauren": {
       "ability": "Inner Focus",
-      "index": 63,
+      "index": 268,
       "item": "Flying Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Acrobatics",
@@ -1398,8 +2484,16 @@ var SETDEX_SS = {
   "Delcatty": {
     "Lass Madeline": {
       "ability": "Normalize",
-      "index": 528,
+      "index": 54,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Fake Out",
@@ -1410,8 +2504,16 @@ var SETDEX_SS = {
     "P": {},
     "Picnicker Leila": {
       "ability": "Normalize",
-      "index": 154,
+      "index": 359,
       "item": "Silk Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "37",
       "moves": [
         "Fake Out",
@@ -1423,8 +2525,16 @@ var SETDEX_SS = {
     },
     "Waitress Kati": {
       "ability": "Normalize",
-      "index": 421,
+      "index": 501,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Fake Out",
@@ -1436,10 +2546,39 @@ var SETDEX_SS = {
     }
   },
   "Delibird": {
+    "Galactic Grunt #1 Eterna Building": {
+      "ability": "Hustle",
+      "index": 207,
+      "item": "Bright Powder",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "29",
+      "moves": [
+        "Brave Bird",
+        "Focus Punch",
+        "Destiny Bond",
+        "Chilly Reception"
+      ],
+      "nature": "Jolly"
+    },
     "PKMN Trainer Cheryl": {
       "ability": "Technician",
-      "index": 262,
+      "index": 144,
       "item": "Charti Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Icy Wind",
@@ -1451,8 +2590,16 @@ var SETDEX_SS = {
     },
     "Pok\u00e9 Kid Danielle": {
       "ability": "Technician",
-      "index": 337,
+      "index": 417,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Blizzard",
@@ -1463,11 +2610,42 @@ var SETDEX_SS = {
       "nature": "Naive"
     }
   },
+  "Deoxys-Speed": {
+    "Champion Cynthia": {
+      "ability": "Beast Boost",
+      "index": 603,
+      "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Psycho Boost",
+        "Focus Blast",
+        "Stealth Rock",
+        "Explosion"
+      ],
+      "nature": "Timid"
+    }
+  },
   "Dewgong": {
     "Ace Trainer Allen": {
       "ability": "Ice Body",
-      "index": 194,
+      "index": 398,
       "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Aurora Beam",
@@ -1479,8 +2657,16 @@ var SETDEX_SS = {
     },
     "Young Couple Mike & Nat": {
       "ability": "Thick Fat",
-      "index": 372,
+      "index": 452,
       "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Flip Turn"
@@ -1489,12 +2675,64 @@ var SETDEX_SS = {
     },
     "c": {}
   },
+  "Dialga": {
+    "Elite Four Bertha": {
+      "ability": "Pressure",
+      "index": 569,
+      "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Steel Beam",
+        "Dragon Pulse",
+        "Aura Sphere",
+        "Power Gem"
+      ],
+      "nature": "Quirky"
+    },
+    "Elite Four Bertha Double": {
+      "ability": "Telepathy",
+      "index": 575,
+      "item": "White Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Draco Meteor",
+        "Flash Cannon",
+        "Flamethrower",
+        "Breaking Swipe"
+      ],
+      "nature": "Quirky"
+    }
+  },
   "Diglett": {
     "G": {},
     "Galactic Grunt #1": {
       "ability": "Arena Trap",
-      "index": 202,
+      "index": 84,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Bulldoze",
@@ -1505,8 +2743,16 @@ var SETDEX_SS = {
     },
     "Worker Colin": {
       "ability": "Arena Trap",
-      "index": 535,
+      "index": 61,
       "item": "Liechi Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Reversal"
@@ -1517,8 +2763,16 @@ var SETDEX_SS = {
   "Dodrio": {
     "Belle & Pa Beth & Bob": {
       "ability": "Tangled Feet",
-      "index": 370,
+      "index": 450,
       "item": "Soft Sand",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Brave Bird",
@@ -1530,8 +2784,16 @@ var SETDEX_SS = {
     },
     "Black Belt Derek": {
       "ability": "Tangled Feet",
-      "index": 433,
+      "index": 513,
       "item": "Shell Bell",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Giga Impact",
@@ -1546,8 +2808,16 @@ var SETDEX_SS = {
     "C": {},
     "Camper Anthony": {
       "ability": "Sturdy",
-      "index": 62,
+      "index": 267,
       "item": "Grass Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Ice Shard",
@@ -1556,13 +2826,42 @@ var SETDEX_SS = {
         "Seed Bomb"
       ],
       "nature": "Careful"
+    },
+    "Elite Four Flint Double": {
+      "ability": "Sturdy",
+      "index": 586,
+      "item": "Covert Cloak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "High Horsepower",
+        "Stone Edge",
+        "Endeavor",
+        "Sunny Day"
+      ],
+      "nature": "Jolly"
     }
   },
   "Dragonair": {
     "Collector Fernando": {
       "ability": "Inner Focus",
-      "index": 415,
+      "index": 495,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Draco Meteor",
@@ -1576,8 +2875,16 @@ var SETDEX_SS = {
   "Drapion": {
     "PKMN Trainer Paul": {
       "ability": "Battle Armor",
-      "index": 173,
+      "index": 378,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Knock Off",
@@ -1592,8 +2899,16 @@ var SETDEX_SS = {
     "C": {},
     "Camper Diego": {
       "ability": "Unburden",
-      "index": 81,
+      "index": 286,
       "item": "Weakness Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Ominous Wind",
@@ -1605,8 +2920,16 @@ var SETDEX_SS = {
     },
     "Leader Fantina": {
       "ability": "Unburden",
-      "index": 197,
+      "index": 401,
       "item": "Rawst Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Shadow Ball",
@@ -1620,8 +2943,16 @@ var SETDEX_SS = {
   "Drifloon": {
     "Hunter ???": {
       "ability": "Unburden",
-      "index": 540,
+      "index": 69,
       "item": "Weakness Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Ominous Wind",
@@ -1635,8 +2966,16 @@ var SETDEX_SS = {
   "Dugtrio": {
     "Aroma Lady Jenna": {
       "ability": "Arena Trap",
-      "index": 314,
+      "index": 196,
       "item": "Soft Sand",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Dig",
@@ -1648,8 +2987,16 @@ var SETDEX_SS = {
     },
     "Cyclist James": {
       "ability": "Arena Trap",
-      "index": 33,
+      "index": 238,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Earthquake",
@@ -1659,10 +3006,39 @@ var SETDEX_SS = {
       ],
       "nature": "Adamant"
     },
+    "Elite Four Bertha Double": {
+      "ability": "Sand Force",
+      "index": 576,
+      "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "High Horsepower",
+        "Rock Slide",
+        "Sucker Punch",
+        "Helping Hand"
+      ],
+      "nature": "Adamant"
+    },
     "Leader Maylene": {
       "ability": "Arena Trap",
-      "index": 469,
-      "item": "Heavy Duty Boots",
+      "index": 549,
+      "item": "Heavy-Duty Boots",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "50",
       "moves": [
         "Earthquake",
@@ -1672,11 +3048,19 @@ var SETDEX_SS = {
     },
     "Pok\u00e9fan Leonard": {
       "ability": "Arena Trap",
-      "index": 363,
+      "index": 443,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "50",
       "moves": [
-        "Fissure"
+        "Earthquake"
       ],
       "nature": "Jolly"
     }
@@ -1684,8 +3068,16 @@ var SETDEX_SS = {
   "Dunsparce": {
     "Bug Catcher Brandon": {
       "ability": "Serene Grace",
-      "index": 216,
+      "index": 98,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Headbutt",
@@ -1699,8 +3091,16 @@ var SETDEX_SS = {
   "Dusclops": {
     "Collector Fernando": {
       "ability": "Iron Fist",
-      "index": 417,
+      "index": 497,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Shadow Sneak",
@@ -1712,8 +3112,16 @@ var SETDEX_SS = {
     },
     "Picnicker Tori": {
       "ability": "Iron Fist",
-      "index": 83,
+      "index": 288,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Ice Shard",
@@ -1726,8 +3134,16 @@ var SETDEX_SS = {
     "S": {},
     "School Kid Mackenzie": {
       "ability": "Iron Fist",
-      "index": 186,
+      "index": 391,
       "item": "Magnet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Brick Break",
@@ -1742,8 +3158,16 @@ var SETDEX_SS = {
   "Dusknoir": {
     "Black Belt Colby": {
       "ability": "Iron Fist",
-      "index": 465,
+      "index": 545,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "49",
       "moves": [
         "Fire Punch",
@@ -1755,8 +3179,16 @@ var SETDEX_SS = {
     },
     "Cyclist James": {
       "ability": "Iron Fist",
-      "index": 34,
+      "index": 239,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Ice Punch",
@@ -1769,8 +3201,16 @@ var SETDEX_SS = {
     "K": {},
     "PKMN Trainer Conway #2": {
       "ability": "Iron Fist",
-      "index": 180,
+      "index": 385,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Shadow Punch",
@@ -1784,12 +3224,20 @@ var SETDEX_SS = {
   "Duskull": {
     "PKMN Trainer Conway": {
       "ability": "Levitate",
-      "index": 505,
+      "index": 31,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Astonish",
-        "Faint Attack",
+        "Feint Attack",
         "Disable",
         "Will-O-Wisp"
       ],
@@ -1799,8 +3247,16 @@ var SETDEX_SS = {
   "Dustox": {
     "Lass Samantha": {
       "ability": "Regenerator",
-      "index": 493,
+      "index": 19,
       "item": "Silver Powder",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "U-Turn"
@@ -1811,8 +3267,16 @@ var SETDEX_SS = {
   "Eevee": {
     "Lass Madeline": {
       "ability": "Adaptability",
-      "index": 527,
+      "index": 53,
       "item": "Berry Juice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Quick Attack",
@@ -1824,8 +3288,16 @@ var SETDEX_SS = {
   "Ekans": {
     "Youngster Michael": {
       "ability": "Intimidate",
-      "index": 516,
+      "index": 42,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Poison Fang",
@@ -1839,8 +3311,16 @@ var SETDEX_SS = {
   "Electivire": {
     "Black Belt Jeffery": {
       "ability": "Iron Fist",
-      "index": 462,
+      "index": 542,
       "item": "Magnet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "48",
       "moves": [
         "Close Combat",
@@ -1852,8 +3332,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul chimchar": {
       "ability": "Iron Fist",
-      "index": 148,
+      "index": 353,
       "item": "White Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Thunder Punch",
@@ -1865,8 +3353,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul piplup": {
       "ability": "Iron Fist",
-      "index": 151,
+      "index": 356,
       "item": "White Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Thunder Punch",
@@ -1878,8 +3374,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul turtwig": {
       "ability": "Iron Fist",
-      "index": 145,
+      "index": 350,
       "item": "White Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Thunder Punch",
@@ -1892,24 +3396,40 @@ var SETDEX_SS = {
   },
   "Electrode": {
     "Commander Jupiter": {
-      "ability": "Soundproof",
-      "index": 22,
-      "item": "Magnet",
+      "ability": "Static",
+      "index": 230,
+      "item": "Normal Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Thunderbolt",
-        "Signal Beam",
-        "Volt Switch",
-        "Magnet Rise"
+        "Hidden Power Ice",
+        "Mirror Coat",
+        "Explosion"
       ],
-      "nature": "Modest"
+      "nature": "Naive"
     }
   },
   "Elekid": {
-    "Galactic Grunt #1 (Floaroma Meadow)": {
+    "Galactic Grunt #1 Floaroma Meadow": {
       "ability": "Static",
-      "index": 228,
+      "index": 110,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Thunder Punch",
@@ -1921,8 +3441,16 @@ var SETDEX_SS = {
     },
     "PKMN Breeder Kahlil": {
       "ability": "Static",
-      "index": 404,
+      "index": 484,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "55",
       "moves": [
         "Thunder Punch",
@@ -1934,8 +3462,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul": {
       "ability": "Static",
-      "index": 479,
+      "index": 5,
       "item": "-",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "6",
       "moves": [
         "Thunder Shock",
@@ -1947,8 +3483,16 @@ var SETDEX_SS = {
   "Empoleon": {
     "PKMN Trainer Barry #4 chimchar": {
       "ability": "Clear Body",
-      "index": 387,
+      "index": 467,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Flash Cannon",
@@ -1960,8 +3504,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Clear Body",
-      "index": 113,
+      "index": 318,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Scald",
@@ -1976,8 +3528,16 @@ var SETDEX_SS = {
     "P": {},
     "Psychic Kody": {
       "ability": "Magic Guard",
-      "index": 284,
+      "index": 166,
       "item": "Light Clay",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Reflect",
@@ -1989,10 +3549,39 @@ var SETDEX_SS = {
     }
   },
   "Exeggutor": {
+    "Elite Four Lucian Double": {
+      "ability": "Chlorophyll",
+      "index": 602,
+      "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Leaf Storm",
+        "Psychic",
+        "Low Kick",
+        "Trick Room"
+      ],
+      "nature": "Quiet"
+    },
     "Leader Gardenia": {
       "ability": "Chlorophyll",
-      "index": 324,
+      "index": 206,
       "item": "Grass Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "30",
       "moves": [
         "Giga Drain",
@@ -2004,8 +3593,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Mira": {
       "ability": "Chlorophyll",
-      "index": 103,
+      "index": 308,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Giga Drain",
@@ -2019,8 +3616,16 @@ var SETDEX_SS = {
     "P": {},
     "Picnicker Leila": {
       "ability": "Soundproof",
-      "index": 156,
+      "index": 361,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "37",
       "moves": [
         "Hyper Voice",
@@ -2031,11 +3636,19 @@ var SETDEX_SS = {
       "nature": "Quiet"
     }
   },
-  "Farfetch'd": {
+  "Farfetch\u2019d": {
     "Jogger Richard": {
       "ability": "Inner Focus",
-      "index": 331,
+      "index": 411,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Slash",
@@ -2049,8 +3662,16 @@ var SETDEX_SS = {
   "Fearow": {
     "Black Belt Nathaniel": {
       "ability": "Sniper",
-      "index": 438,
+      "index": 518,
       "item": "Scope Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "U-Turn",
@@ -2062,8 +3683,16 @@ var SETDEX_SS = {
     },
     "Picnicker Lauren": {
       "ability": "Sniper",
-      "index": 64,
+      "index": 269,
       "item": "Scope Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Pluck",
@@ -2078,8 +3707,16 @@ var SETDEX_SS = {
   "Feraligatr": {
     "PKMN Trainer Barry #4 piplup": {
       "ability": "Sheer Force",
-      "index": 392,
+      "index": 472,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Wave Crash",
@@ -2093,8 +3730,16 @@ var SETDEX_SS = {
   "Finneon": {
     "Lass Sarah": {
       "ability": "Swift Swim",
-      "index": 492,
+      "index": 17,
       "item": "Binding Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Water Pulse",
@@ -2108,12 +3753,20 @@ var SETDEX_SS = {
   "Flaaffy": {
     "Aroma Lady Elizabeth": {
       "ability": "Static",
-      "index": 248,
+      "index": 130,
       "item": "Magnet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Shock Wave",
-        "HP (Ice)",
+        "Hidden Power Ice",
         "Confuse Ray",
         "Charge"
       ],
@@ -2123,8 +3776,16 @@ var SETDEX_SS = {
   "Flareon": {
     "Aroma Lady Rose": {
       "ability": "Guts",
-      "index": 170,
+      "index": 375,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Fire Fang",
@@ -2137,8 +3798,16 @@ var SETDEX_SS = {
     "K": {},
     "Leader Gardenia": {
       "ability": "Flash Fire",
-      "index": 322,
+      "index": 204,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "30",
       "moves": [
         "Flame Charge"
@@ -2149,8 +3818,16 @@ var SETDEX_SS = {
   "Floatzel": {
     "Ace Trainer Dennis": {
       "ability": "Swift Swim",
-      "index": 448,
+      "index": 528,
       "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Triple Axel",
@@ -2162,8 +3839,16 @@ var SETDEX_SS = {
     },
     "Cyclist Kayla": {
       "ability": "Swift Swim",
-      "index": 52,
+      "index": 257,
       "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Flip Turn",
@@ -2173,13 +3858,65 @@ var SETDEX_SS = {
       ],
       "nature": "Adamant"
     },
+    "Elite Four Lucian": {
+      "ability": "Technician",
+      "index": 592,
+      "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Wave Crash",
+        "Focus Blast",
+        "Flip Turn",
+        "Triple Axel"
+      ],
+      "nature": "Adamant"
+    },
     "c": {}
+  },
+  "Flygon": {
+    "Elite Four Bertha Double": {
+      "ability": "Levitate",
+      "index": 573,
+      "item": "Yache Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Dragon Rush",
+        "Earth Power",
+        "First Impression",
+        "Tailwind"
+      ],
+      "nature": "Adamant"
+    }
   },
   "Forretress": {
     "Collector Edwin": {
       "ability": "Skill Link",
-      "index": 418,
+      "index": 498,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Pin Missile",
@@ -2189,26 +3926,42 @@ var SETDEX_SS = {
       ],
       "nature": "Relaxed"
     },
-    "Commander Jupiter": {
-      "ability": "Skill Link",
-      "index": 21,
-      "item": "Focus Sash",
-      "level": "32",
+    "Elite Four Aaron": {
+      "ability": "Sturdy",
+      "index": 559,
+      "item": "Covert Cloak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
       "moves": [
-        "Pin Missile",
-        "Rock Blast",
-        "Spikes",
-        "Stealth Rock"
+        "Iron Head",
+        "Lunge",
+        "Drill Run",
+        "Mirror Coat"
       ],
-      "nature": "Careful"
+      "nature": "Impish"
     }
   },
   "Froslass": {
     "A": {},
     "Ace Trainer Catherine": {
       "ability": "Slush Rush",
-      "index": 190,
+      "index": 395,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Icy Wind",
@@ -2218,23 +3971,18 @@ var SETDEX_SS = {
       ],
       "nature": "Modest"
     },
-    "Galactic Grunt #5 (Eterna Building)": {
-      "ability": "Slush Rush",
-      "index": 15,
-      "item": "Lum Berry",
-      "level": "30",
-      "moves": [
-        "Ominous Wind",
-        "Aurora Beam",
-        "Water Pulse",
-        "Psychic"
-      ],
-      "nature": "Modest"
-    },
     "Young Couple Mike & Nat": {
       "ability": "Snow Warning",
-      "index": 371,
+      "index": 451,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Ice Beam",
@@ -2248,8 +3996,16 @@ var SETDEX_SS = {
   "Furret": {
     "Bug Catcher Donald": {
       "ability": "Adaptability",
-      "index": 283,
+      "index": 165,
       "item": "Silk Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Follow Me",
@@ -2261,8 +4017,16 @@ var SETDEX_SS = {
     },
     "Hiker Daniel": {
       "ability": "Adaptability",
-      "index": 243,
+      "index": 125,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Quick Attack",
@@ -2277,8 +4041,16 @@ var SETDEX_SS = {
   "Gabite": {
     "Black Belt Gregory": {
       "ability": "Rough Skin",
-      "index": 436,
+      "index": 516,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Dual Chop",
@@ -2291,8 +4063,16 @@ var SETDEX_SS = {
     "C": {},
     "Camper Anthony": {
       "ability": "Rough Skin",
-      "index": 61,
+      "index": 266,
       "item": "Rocky Helmet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Crunch",
@@ -2304,10 +4084,39 @@ var SETDEX_SS = {
     }
   },
   "Gallade": {
+    "Elite Four Lucian": {
+      "ability": "Inner Focus",
+      "index": 596,
+      "item": "Weakness Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Drain Punch",
+        "Psycho Cut",
+        "Shadow Sneak",
+        "Bulk Up"
+      ],
+      "nature": "Careful"
+    },
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Steadfast",
-      "index": 109,
+      "index": 314,
       "item": "Scope Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Cross Chop",
@@ -2318,11 +4127,42 @@ var SETDEX_SS = {
       "nature": "Jolly"
     }
   },
+  "Garchomp": {
+    "Champion Cynthia": {
+      "ability": "Rough Skin",
+      "index": 608,
+      "item": "Loaded Dice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Earthquake",
+        "Scale Shot",
+        "Stone Edge",
+        "Swords Dance"
+      ],
+      "nature": "Adamant"
+    }
+  },
   "Gardevoir": {
     "Black Belt Colby": {
       "ability": "Trace",
-      "index": 466,
+      "index": 546,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "49",
       "moves": [
         "Psychic",
@@ -2336,8 +4176,16 @@ var SETDEX_SS = {
   "Gastly": {
     "Galactic Grunt #2": {
       "ability": "Levitate",
-      "index": 204,
+      "index": 86,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Shadow Sneak",
@@ -2349,12 +4197,20 @@ var SETDEX_SS = {
     },
     "Worker Mason": {
       "ability": "Levitate",
-      "index": 538,
+      "index": 64,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Hex",
-        "HP (Fighting)",
+        "Hidden Power Fighting",
         "Venoshock"
       ],
       "nature": "Timid"
@@ -2364,8 +4220,16 @@ var SETDEX_SS = {
   "Gastrodon": {
     "Psychic Lindsey": {
       "ability": "Rain Dish",
-      "index": 279,
+      "index": 161,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Mud Shot",
@@ -2377,8 +4241,16 @@ var SETDEX_SS = {
     },
     "Young Couple Ty & Sue": {
       "ability": "Rain Dish",
-      "index": 352,
+      "index": 432,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Scald",
@@ -2390,11 +4262,42 @@ var SETDEX_SS = {
     },
     "s": {}
   },
+  "Gastrodon-East": {
+    "Elite Four Flint": {
+      "ability": "Storm Drain",
+      "index": 580,
+      "item": "Rindo Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Muddy Water",
+        "Earth Power",
+        "Ice Beam",
+        "Spikes"
+      ],
+      "nature": "Bold"
+    }
+  },
   "Gengar": {
     "Leader Fantina": {
       "ability": "Levitate",
-      "index": 200,
+      "index": 404,
       "item": "Colbur Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Shadow Ball",
@@ -2408,8 +4311,16 @@ var SETDEX_SS = {
   "Geodude": {
     "Worker Colin": {
       "ability": "Sturdy",
-      "index": 536,
+      "index": 62,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Rock Tomb",
@@ -2423,8 +4334,16 @@ var SETDEX_SS = {
   "Gible": {
     "Bug Catcher Brandon": {
       "ability": "Rough Skin",
-      "index": 215,
+      "index": 97,
       "item": "Rocky Helmet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Dig",
@@ -2438,8 +4357,16 @@ var SETDEX_SS = {
   "Girafarig": {
     "Jogger Wyatt": {
       "ability": "Quick Feet",
-      "index": 399,
+      "index": 479,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "44",
       "moves": [
         "Psychic",
@@ -2451,8 +4378,16 @@ var SETDEX_SS = {
     },
     "Psychic Diavolo": {
       "ability": "Quick Feet",
-      "index": 164,
+      "index": 369,
       "item": "Colbur Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "38",
       "moves": [
         "Psychic",
@@ -2465,23 +4400,39 @@ var SETDEX_SS = {
     "l": {}
   },
   "Glaceon": {
-    "Galactic Grunt #5 (Eterna Building)": {
-      "ability": "Ice Scales",
-      "index": 16,
-      "item": "Power Herb",
-      "level": "30",
+    "Galactic Grunt #1 Eterna Building": {
+      "ability": "Snow Cloak",
+      "index": 209,
+      "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "29",
       "moves": [
-        "Ice Beam",
-        "Dig",
-        "Ice Shard",
-        "Attract"
+        "Aurora Beam",
+        "Water Pulse",
+        "Shadow Ball",
+        "Mud Shot"
       ],
-      "nature": "Hasty"
+      "nature": "Calm"
     },
     "PKMN Trainer Mira": {
       "ability": "Ice Scales",
-      "index": 100,
+      "index": 305,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Icy Wind",
@@ -2493,8 +4444,16 @@ var SETDEX_SS = {
     },
     "Young Couple Mike & Nat": {
       "ability": "Ice Scales",
-      "index": 375,
+      "index": 455,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Ice Beam",
@@ -2509,8 +4468,16 @@ var SETDEX_SS = {
     "A": {},
     "Ace Trainer Catherine": {
       "ability": "Slush Rush",
-      "index": 191,
+      "index": 396,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Blizzard",
@@ -2520,10 +4487,39 @@ var SETDEX_SS = {
       ],
       "nature": "Naive"
     },
+    "Galactic Grunt #1 Eterna Building": {
+      "ability": "Slush Rush",
+      "index": 208,
+      "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "29",
+      "moves": [
+        "Ice Beam",
+        "Earthquake",
+        "Hail",
+        "Double Team"
+      ],
+      "nature": "Naughty"
+    },
     "Young Couple Mike & Nat": {
       "ability": "Slush Rush",
-      "index": 373,
+      "index": 453,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Weather Ball",
@@ -2537,8 +4533,16 @@ var SETDEX_SS = {
   "Gliscor": {
     "Cyclist Kayla": {
       "ability": "Hyper Cutter",
-      "index": 53,
+      "index": 258,
       "item": "Flying Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Acrobatics",
@@ -2547,18 +4551,47 @@ var SETDEX_SS = {
         "Fire Fang"
       ],
       "nature": "Jolly"
+    },
+    "Elite Four Bertha": {
+      "ability": "Poison Heal",
+      "index": 570,
+      "item": "Toxic Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Dual Wingbeat",
+        "High Horsepower",
+        "Toxic",
+        "Substitute"
+      ],
+      "nature": "Jolly"
     }
   },
   "Gloom": {
     "Aroma Lady Taylor": {
       "ability": "Gooey",
-      "index": 211,
+      "index": 93,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Mega Drain",
         "Sludge",
-        "HP (Ground)",
+        "Hidden Power Ground",
         "Trailblaze"
       ],
       "nature": "Calm"
@@ -2567,8 +4600,16 @@ var SETDEX_SS = {
   "Golbat": {
     "Commander Mars": {
       "ability": "Inner Focus",
-      "index": 241,
+      "index": 123,
       "item": "Sharp Beak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "20",
       "moves": [
         "Aerial Ace",
@@ -2577,26 +4618,21 @@ var SETDEX_SS = {
         "Mean Look"
       ],
       "nature": "Adamant"
-    },
-    "Galactic Grunt #1 (Eterna Building)": {
-      "ability": "Inner Focus",
-      "index": 1,
-      "item": "Sitrus Berry",
-      "level": "29",
-      "moves": [
-        "Poison Fang",
-        "U-turn",
-        "Dual Wingbeat",
-        "Mean Look"
-      ],
-      "nature": "Adamant"
     }
   },
   "Golduck": {
     "Pok\u00e9 Kid Danielle": {
       "ability": "Swift Swim",
-      "index": 338,
+      "index": 418,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Aqua Tail",
@@ -2608,8 +4644,16 @@ var SETDEX_SS = {
     },
     "Psychic Lindsey": {
       "ability": "Swift Swim",
-      "index": 278,
+      "index": 160,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Psybeam",
@@ -2625,8 +4669,16 @@ var SETDEX_SS = {
     "B": {},
     "Black Belt Sakai": {
       "ability": "Sturdy",
-      "index": 162,
+      "index": 367,
       "item": "Covert Cloak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "38",
       "moves": [
         "Rock Slide",
@@ -2638,8 +4690,16 @@ var SETDEX_SS = {
     },
     "Cyclist John": {
       "ability": "Sturdy",
-      "index": 43,
+      "index": 248,
       "item": "Covert Cloak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Explosion",
@@ -2649,11 +4709,40 @@ var SETDEX_SS = {
       ],
       "nature": "Brave"
     },
+    "Elite Four Bertha": {
+      "ability": "Sturdy",
+      "index": 567,
+      "item": "Iapapa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Stone Edge",
+        "Earthquake",
+        "Hammer Arm",
+        "Stealth Rock"
+      ],
+      "nature": "Careful"
+    },
     "H": {},
     "Hiker Reginald": {
       "ability": "Sturdy",
-      "index": 76,
+      "index": 281,
       "item": "Hard Stone",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Rock Slide",
@@ -2665,8 +4754,16 @@ var SETDEX_SS = {
     },
     "Jogger Scott": {
       "ability": "Sturdy",
-      "index": 441,
+      "index": 521,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Rock Blast",
@@ -2681,8 +4778,16 @@ var SETDEX_SS = {
     "P": {},
     "Picnicker Leila": {
       "ability": "Intimidate",
-      "index": 155,
+      "index": 360,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "37",
       "moves": [
         "Ice Fang",
@@ -2696,8 +4801,16 @@ var SETDEX_SS = {
   "Graveler": {
     "Hiker Louis": {
       "ability": "Sturdy",
-      "index": 302,
+      "index": 187,
       "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Bulldoze",
@@ -2709,8 +4822,16 @@ var SETDEX_SS = {
     },
     "Jogger Raul": {
       "ability": "Sturdy",
-      "index": 340,
-      "item": "Rock Gem",
+      "index": 420,
+      "item": "Red Card",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Earthquake",
@@ -2724,8 +4845,16 @@ var SETDEX_SS = {
   "Grimer": {
     "Hiker Nicholas": {
       "ability": "Poison Touch",
-      "index": 253,
+      "index": 135,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "23",
       "moves": [
         "Memento"
@@ -2736,8 +4865,16 @@ var SETDEX_SS = {
   "Grotle": {
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Shell Armor",
-      "index": 207,
+      "index": 89,
       "item": "Miracle Seed",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Razor Leaf",
@@ -2749,8 +4886,16 @@ var SETDEX_SS = {
   "Grovyle": {
     "PKMN Trainer Cheryl": {
       "ability": "Unburden",
-      "index": 270,
+      "index": 152,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Detect",
@@ -2762,10 +4907,39 @@ var SETDEX_SS = {
     }
   },
   "Grumpig": {
+    "Galactic Grunt #4 Eterna Building": {
+      "ability": "Thick Fat",
+      "index": 218,
+      "item": "Starf Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Extrasensory",
+        "Hidden Power Fighting",
+        "Stored Power",
+        "Amnesia"
+      ],
+      "nature": "Calm"
+    },
     "Waitress Kati": {
       "ability": "Thick Fat",
-      "index": 422,
+      "index": 502,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Power Gem",
@@ -2779,8 +4953,16 @@ var SETDEX_SS = {
   "Gulpin": {
     "Youngster Dallas": {
       "ability": "Gooey",
-      "index": 519,
+      "index": 45,
       "item": "Miracle Seed",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Acid Spray",
@@ -2795,8 +4977,16 @@ var SETDEX_SS = {
     "A": {},
     "Ace Trainer Maya": {
       "ability": "Intimidate",
-      "index": 446,
+      "index": 526,
       "item": "Wide Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Crunch",
@@ -2808,8 +4998,16 @@ var SETDEX_SS = {
     },
     "Fisherman Andrew": {
       "ability": "Intimidate",
-      "index": 294,
+      "index": 176,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "26",
       "moves": [
         "Thunderbolt",
@@ -2823,8 +5021,16 @@ var SETDEX_SS = {
   "Hariyama": {
     "Black Belt Jeffery": {
       "ability": "Guts",
-      "index": 460,
+      "index": 540,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "48",
       "moves": [
         "Fake Out",
@@ -2834,10 +5040,39 @@ var SETDEX_SS = {
       ],
       "nature": "Brave"
     },
+    "Elite Four Lucian Double": {
+      "ability": "Guts",
+      "index": 597,
+      "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Close Combat",
+        "Stone Edge",
+        "Knock Off",
+        "Fake Out"
+      ],
+      "nature": "Brave"
+    },
     "Lass Briana": {
       "ability": "Guts",
-      "index": 274,
+      "index": 156,
       "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Fake Out",
@@ -2849,8 +5084,16 @@ var SETDEX_SS = {
     },
     "Twins Tori & Tia": {
       "ability": "Guts",
-      "index": 411,
+      "index": 491,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Focus Punch",
@@ -2865,8 +5108,16 @@ var SETDEX_SS = {
   "Haunter": {
     "Jogger Wyatt": {
       "ability": "Levitate",
-      "index": 398,
+      "index": 478,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "44",
       "moves": [
         "Shadow Ball",
@@ -2879,8 +5130,16 @@ var SETDEX_SS = {
     "S": {},
     "School Kid Mackenzie": {
       "ability": "Levitate",
-      "index": 185,
+      "index": 390,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Sludge Bomb",
@@ -2894,8 +5153,16 @@ var SETDEX_SS = {
   "Heracross": {
     "Cyclist Megan": {
       "ability": "Guts",
-      "index": 30,
+      "index": 235,
       "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Brick Break",
@@ -2904,10 +5171,39 @@ var SETDEX_SS = {
       ],
       "nature": "Jolly"
     },
+    "Elite Four Aaron Double": {
+      "ability": "Guts",
+      "index": 562,
+      "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Close Combat",
+        "Megahorn",
+        "Throat Chop",
+        "Protect"
+      ],
+      "nature": "Adamant"
+    },
     "Leader Maylene": {
       "ability": "Guts",
-      "index": 472,
+      "index": 552,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "50",
       "moves": [
         "Megahorn",
@@ -2920,8 +5216,16 @@ var SETDEX_SS = {
     "P": {},
     "PKMN Trainer Barry #3": {
       "ability": "Guts",
-      "index": 176,
+      "index": 381,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Brick Break",
@@ -2933,8 +5237,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Guts",
-      "index": 118,
+      "index": 323,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Megahorn",
@@ -2945,11 +5257,42 @@ var SETDEX_SS = {
       "nature": "Jolly"
     }
   },
+  "Hippowdon": {
+    "Elite Four Bertha Double": {
+      "ability": "Sand Stream",
+      "index": 574,
+      "item": "Rock Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Earthquake",
+        "High Horsepower",
+        "Stone Edge",
+        "Body Press"
+      ],
+      "nature": "Impish"
+    }
+  },
   "Hitmonchan": {
     "Battle Girl Helen": {
       "ability": "Iron Fist",
-      "index": 74,
+      "index": 279,
       "item": "Salac Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Close Combat"
@@ -2958,8 +5301,16 @@ var SETDEX_SS = {
     },
     "Black Belt Jeffery": {
       "ability": "Iron Fist",
-      "index": 459,
+      "index": 539,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "48",
       "moves": [
         "Ice Punch",
@@ -2973,8 +5324,16 @@ var SETDEX_SS = {
   "Hitmonlee": {
     "Battle Girl Helen": {
       "ability": "Unburden",
-      "index": 73,
+      "index": 278,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Low Kick",
@@ -2986,8 +5345,16 @@ var SETDEX_SS = {
     },
     "Black Belt Darren": {
       "ability": "Unburden",
-      "index": 453,
+      "index": 533,
       "item": "Normal Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Fake Out",
@@ -3001,8 +5368,16 @@ var SETDEX_SS = {
   "Hitmontop": {
     "Battle Girl Helen": {
       "ability": "Technician",
-      "index": 72,
+      "index": 277,
       "item": "Payapa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Fake Out",
@@ -3014,8 +5389,16 @@ var SETDEX_SS = {
     },
     "Black Belt Colby": {
       "ability": "Technician",
-      "index": 468,
+      "index": 548,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "49",
       "moves": [
         "Fake Out",
@@ -3026,11 +5409,63 @@ var SETDEX_SS = {
       "nature": "Adamant "
     }
   },
+  "Ho-Oh": {
+    "Elite Four Flint": {
+      "ability": "Regenerator",
+      "index": 581,
+      "item": "Eject Button",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Sacred Fire",
+        "Acrobatics",
+        "Giga Drain",
+        "Roost"
+      ],
+      "nature": "Quirky"
+    },
+    "Elite Four Flint Double": {
+      "ability": "Pressure",
+      "index": 587,
+      "item": "Heat Rock",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Sacred Fire",
+        "Brave Bird",
+        "Giga Drain",
+        "Sunny Day"
+      ],
+      "nature": "Quirky"
+    }
+  },
   "Honchkrow": {
     "Cyclist John": {
       "ability": "Super Luck",
-      "index": 42,
+      "index": 247,
       "item": "Scope Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Night Slash",
@@ -3044,8 +5479,16 @@ var SETDEX_SS = {
   "Houndoom": {
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Unnerve",
-      "index": 111,
+      "index": 316,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Flamethrower",
@@ -3057,10 +5500,18 @@ var SETDEX_SS = {
     }
   },
   "Houndour": {
-    "Galactic Grunt #1 (Valley Windworks)": {
+    "Galactic Grunt #1 Valley Windworks": {
       "ability": "Flame Body",
-      "index": 235,
+      "index": 117,
       "item": "Black Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "19",
       "moves": [
         "Fire Fang",
@@ -3072,8 +5523,16 @@ var SETDEX_SS = {
     },
     "Hunter ???": {
       "ability": "Flame Body",
-      "index": 542,
+      "index": 71,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Fire Fang",
@@ -3087,8 +5546,16 @@ var SETDEX_SS = {
   "Huntail": {
     "Black Belt Gregory": {
       "ability": "Strong Jaw",
-      "index": 434,
+      "index": 514,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Waterfall",
@@ -3102,8 +5569,16 @@ var SETDEX_SS = {
   "Hypno": {
     "Twins Emma & Lil": {
       "ability": "Bad Dreams",
-      "index": 332,
+      "index": 412,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Dream Eater",
@@ -3117,8 +5592,16 @@ var SETDEX_SS = {
   "Illumise": {
     "Lass Kaitlin": {
       "ability": "Prankster",
-      "index": 524,
+      "index": 50,
       "item": "Berry Juice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Signal Beam",
@@ -3130,8 +5613,16 @@ var SETDEX_SS = {
     "Y": {},
     "Youngster Wayne": {
       "ability": "Prankster",
-      "index": 87,
+      "index": 292,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Bug Buzz",
@@ -3145,8 +5636,16 @@ var SETDEX_SS = {
   "Infernape": {
     "Black Belt Rafael": {
       "ability": "Iron Fist",
-      "index": 457,
+      "index": 537,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Fake Out",
@@ -3156,10 +5655,39 @@ var SETDEX_SS = {
       ],
       "nature": "Naive"
     },
+    "Elite Four Flint Double": {
+      "ability": "Iron Fist",
+      "index": 590,
+      "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Sky Uppercut",
+        "Fire Punch",
+        "Thunder Punch",
+        "Fake Out"
+      ],
+      "nature": "Adamant"
+    },
     "PKMN Trainer Barry #4 turtwig": {
       "ability": "Iron Fist",
-      "index": 384,
+      "index": 464,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Fake Out",
@@ -3171,8 +5699,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Iron Fist",
-      "index": 125,
+      "index": 330,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Drain Punch",
@@ -3186,8 +5722,16 @@ var SETDEX_SS = {
   "Jigglypuff": {
     "Lass Sarah": {
       "ability": "Cute Charm",
-      "index": 491,
+      "index": 18,
       "item": "Chesto Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Body Slam",
@@ -3202,8 +5746,16 @@ var SETDEX_SS = {
     "A": {},
     "Ace Trainer Maya": {
       "ability": "Quick Feet",
-      "index": 445,
+      "index": 525,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Volt Switch",
@@ -3215,13 +5767,21 @@ var SETDEX_SS = {
     },
     "Cyclist Rachel": {
       "ability": "Quick Feet",
-      "index": 47,
+      "index": 252,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Thunderbolt",
         "Volt Switch",
-        "HP (Grass)",
+        "Hidden Power Grass",
         "Body Slam"
       ],
       "nature": "Modest"
@@ -3230,8 +5790,16 @@ var SETDEX_SS = {
   "Jumpluff": {
     "Leader Gardenia": {
       "ability": "Chlorophyll",
-      "index": 321,
+      "index": 203,
       "item": "Eject Pack",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "30",
       "moves": [
         "Leaf Storm",
@@ -3245,8 +5813,16 @@ var SETDEX_SS = {
   "Jynx": {
     "PKMN Trainer Mira": {
       "ability": "Unburden",
-      "index": 107,
+      "index": 312,
       "item": "Psychic Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Psychic",
@@ -3258,11 +5834,18 @@ var SETDEX_SS = {
     }
   },
   "Kabuto": {
-    "Y": {},
     "Youngster Jonathon": {
       "ability": "Battle Armor",
-      "index": 544,
+      "index": 75,
       "item": "Miracle Seed",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Rock Tomb",
@@ -3271,13 +5854,22 @@ var SETDEX_SS = {
         "Protect"
       ],
       "nature": "Quirky"
-    }
+    },
+    "o": {}
   },
   "Kabutops": {
     "Cyclist Megan": {
       "ability": "Swift Swim",
-      "index": 31,
+      "index": 236,
       "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Rock Slide"
@@ -3286,8 +5878,16 @@ var SETDEX_SS = {
     },
     "Young Couple Ty & Sue": {
       "ability": "Swift Swim",
-      "index": 350,
+      "index": 430,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Aqua Jet",
@@ -3301,8 +5901,16 @@ var SETDEX_SS = {
   "Kadabra": {
     "Hiker Theodore": {
       "ability": "Synchronize",
-      "index": 56,
+      "index": 261,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Psybeam",
@@ -3314,8 +5922,16 @@ var SETDEX_SS = {
     },
     "Jogger Wyatt": {
       "ability": "Synchronize",
-      "index": 397,
+      "index": 477,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "44",
       "moves": [
         "Psychic",
@@ -3327,8 +5943,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Synchronize",
-      "index": 208,
+      "index": 90,
       "item": "Twisted Spoon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Confusion"
@@ -3337,8 +5961,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Synchronize",
-      "index": 210,
+      "index": 92,
       "item": "Twisted Spoon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Confusion"
@@ -3347,8 +5979,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Synchronize",
-      "index": 206,
+      "index": 88,
       "item": "Twisted Spoon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Confusion"
@@ -3357,8 +5997,16 @@ var SETDEX_SS = {
     },
     "Psychic Rachael": {
       "ability": "Synchronize",
-      "index": 286,
+      "index": 168,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Charge Beam",
@@ -3374,8 +6022,16 @@ var SETDEX_SS = {
     "L": {},
     "Lass Molly": {
       "ability": "Protean",
-      "index": 182,
+      "index": 387,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Fake Out",
@@ -3389,8 +6045,16 @@ var SETDEX_SS = {
   "Kingler": {
     "Roughneck Kirby": {
       "ability": "Sheer Force",
-      "index": 359,
+      "index": 439,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Crabhammer",
@@ -3404,8 +6068,16 @@ var SETDEX_SS = {
   "Kirlia": {
     "Psychic Rachael": {
       "ability": "Trace",
-      "index": 287,
+      "index": 169,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Psybeam",
@@ -3420,8 +6092,16 @@ var SETDEX_SS = {
   "Koffing": {
     "Galactic Grunt #2": {
       "ability": "Levitate",
-      "index": 203,
+      "index": 85,
       "item": "Payapa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Sludge",
@@ -3436,8 +6116,16 @@ var SETDEX_SS = {
   "Kricketune": {
     "Artist William": {
       "ability": "Swarm",
-      "index": 144,
+      "index": 349,
       "item": "Bug Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "First Impression",
@@ -3450,8 +6138,16 @@ var SETDEX_SS = {
     "B": {},
     "Bug Catcher Jack": {
       "ability": "Technician",
-      "index": 271,
+      "index": 153,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Night Slash",
@@ -3463,8 +6159,16 @@ var SETDEX_SS = {
     },
     "Youngster Tyler": {
       "ability": "Technician",
-      "index": 497,
+      "index": 23,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Fury Cutter",
@@ -3476,8 +6180,16 @@ var SETDEX_SS = {
   "Lairon": {
     "Hiker Louis": {
       "ability": "Rock Head",
-      "index": 303,
+      "index": 188,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Iron Tail",
@@ -3491,8 +6203,16 @@ var SETDEX_SS = {
   "Lanturn": {
     "Cyclist Rachel": {
       "ability": "Volt Absorb",
-      "index": 50,
+      "index": 255,
       "item": "Weakness Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "34",
       "moves": [
         "Charge Beam",
@@ -3504,8 +6224,16 @@ var SETDEX_SS = {
     },
     "Fisherman Andrew": {
       "ability": "Volt Absorb",
-      "index": 292,
+      "index": 174,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "26",
       "moves": [
         "Volt Switch",
@@ -3517,8 +6245,16 @@ var SETDEX_SS = {
     },
     "Jogger Craig": {
       "ability": "Volt Absorb",
-      "index": 428,
+      "index": 508,
       "item": "Magnet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Thunder",
@@ -3530,39 +6266,21 @@ var SETDEX_SS = {
     }
   },
   "Lapras": {
-    "Ace Trainer Allen": {
-      "ability": "Shell Armor",
-      "index": 192,
-      "item": "Leftovers",
-      "level": "40",
-      "moves": [
-        "Body Slam",
-        "Thunderbolt",
-        "Protect",
-        "Confuse Ray"
-      ],
-      "nature": "Relaxed"
-    },
-    "Galactic Grunt #5 (Eterna Building)": {
-      "ability": "Shell Armor",
-      "index": 14,
-      "item": "Covert Cloak",
-      "level": "30",
-      "moves": [
-        "Body Slam",
-        "Avalanche",
-        "Dragon Dance",
-        "Whirlpool"
-      ],
-      "nature": "Adamant"
-    },
     "c": {}
   },
   "Leafeon": {
     "Aroma Lady Angela": {
       "ability": "Chlorophyll",
-      "index": 317,
+      "index": 199,
       "item": "Metronome",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "29",
       "moves": [
         "Leaf Blade"
@@ -3573,8 +6291,16 @@ var SETDEX_SS = {
   "Ledyba": {
     "Picnicker Diana": {
       "ability": "Rattled",
-      "index": 532,
+      "index": 58,
       "item": "Covert Cloak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Air Slash",
@@ -3587,8 +6313,16 @@ var SETDEX_SS = {
   "Lickilicky": {
     "Ace Trainer Dennis": {
       "ability": "Oblivious",
-      "index": 450,
+      "index": 530,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Zen Headbutt",
@@ -3600,8 +6334,16 @@ var SETDEX_SS = {
     },
     "Cyclist Ryan": {
       "ability": "Oblivious",
-      "index": 46,
+      "index": 251,
       "item": "Salac Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "34",
       "moves": [
         "Facade",
@@ -3614,10 +6356,19 @@ var SETDEX_SS = {
     "c": {}
   },
   "Lileep": {
+    "Y": {},
     "Youngster Darius": {
       "ability": "Suction Cups",
-      "index": 546,
+      "index": 73,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Mega Drain",
@@ -3626,14 +6377,21 @@ var SETDEX_SS = {
         "Endure"
       ],
       "nature": "Quiet"
-    },
-    "o": {}
+    }
   },
   "Linoone": {
     "Camper Zackary": {
       "ability": "Quick Feet",
-      "index": 250,
+      "index": 132,
       "item": "Toxic Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Slash",
@@ -3648,8 +6406,16 @@ var SETDEX_SS = {
     "P": {},
     "Psychic Elijah": {
       "ability": "Swift Swim",
-      "index": 277,
+      "index": 159,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Fake Out",
@@ -3664,8 +6430,16 @@ var SETDEX_SS = {
     "P": {},
     "PKMN Trainer Nando #2": {
       "ability": "Iron Fist",
-      "index": 166,
+      "index": 371,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "High Jump Kick",
@@ -3677,10 +6451,39 @@ var SETDEX_SS = {
     }
   },
   "Lucario": {
+    "Champion Cynthia": {
+      "ability": "Inner Focus",
+      "index": 604,
+      "item": "Liechi Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Close Combat",
+        "Meteor Mash",
+        "Reversal",
+        "Endure"
+      ],
+      "nature": "Jolly"
+    },
     "Cyclist Nicole": {
       "ability": "Inner Focus",
-      "index": 36,
+      "index": 241,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Vacuum Wave",
@@ -3692,8 +6495,16 @@ var SETDEX_SS = {
     },
     "Leader Maylene": {
       "ability": "Inner Focus",
-      "index": 471,
+      "index": 551,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "50",
       "moves": [
         "Drain Punch",
@@ -3707,8 +6518,16 @@ var SETDEX_SS = {
   "Ludicolo": {
     "Black Belt Nathaniel": {
       "ability": "Swift Swim",
-      "index": 440,
+      "index": 520,
       "item": "Shell Bell",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "48",
       "moves": [
         "Fake Out",
@@ -3717,26 +6536,65 @@ var SETDEX_SS = {
         "Ice Beam"
       ],
       "nature": "Naive"
-    },
-    "Galactic Grunt #3 (Eterna Building)": {
-      "ability": "Swift Swim",
-      "index": 8,
+    }
+  },
+  "Lugia": {
+    "Elite Four Lucian": {
+      "ability": "Multiscale",
+      "index": 593,
       "item": "Leftovers",
-      "level": "30",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
       "moves": [
-        "Scald",
-        "Giga Drain",
-        "Fake Out",
-        "Thunder Punch"
+        "Aeroblast",
+        "Psyshock",
+        "Recover",
+        "Calm Mind"
       ],
-      "nature": "Timid"
+      "nature": "Calm"
+    },
+    "Elite Four Lucian Double": {
+      "ability": "Multiscale",
+      "index": 598,
+      "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Hurricane",
+        "Zen Headbutt",
+        "Earth Power",
+        "Trick Room"
+      ],
+      "nature": "Relaxed"
     }
   },
   "Lumineon": {
     "Fisherman Zachary": {
       "ability": "Swift Swim",
-      "index": 296,
+      "index": 178,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "U-Turn"
@@ -3747,8 +6605,16 @@ var SETDEX_SS = {
   "Lunatone": {
     "Belle & Pa Ava & Matt": {
       "ability": "Levitate",
-      "index": 403,
+      "index": 483,
       "item": "Zoom Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Psychic",
@@ -3761,8 +6627,16 @@ var SETDEX_SS = {
     "C": {},
     "Collector Terry": {
       "ability": "Levitate",
-      "index": 96,
+      "index": 301,
       "item": "Weakness Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Hypnosis",
@@ -3774,8 +6648,16 @@ var SETDEX_SS = {
     },
     "Hiker Kevin": {
       "ability": "Levitate",
-      "index": 67,
+      "index": 272,
       "item": "Rock Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Psychic",
@@ -3789,8 +6671,16 @@ var SETDEX_SS = {
   "Luvdisc": {
     "Aroma Lady Elizabeth": {
       "ability": "Swift Swim",
-      "index": 246,
+      "index": 128,
       "item": "Iapapa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Water Pulse",
@@ -3802,8 +6692,16 @@ var SETDEX_SS = {
     },
     "Lass Sarah": {
       "ability": "Swift Swim",
-      "index": 490,
+      "index": 16,
       "item": "Damp Rock",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Water Pulse",
@@ -3817,8 +6715,16 @@ var SETDEX_SS = {
   "Luxray": {
     "Cyclist Nicole": {
       "ability": "Strong Jaw",
-      "index": 39,
+      "index": 244,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Crunch",
@@ -3830,8 +6736,16 @@ var SETDEX_SS = {
     },
     "Fisherman Zachary": {
       "ability": "Strong Jaw",
-      "index": 298,
+      "index": 180,
       "item": "Choice Specs",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Volt Switch"
@@ -3840,8 +6754,16 @@ var SETDEX_SS = {
     },
     "Youngster Oliver": {
       "ability": "Strong Jaw",
-      "index": 353,
+      "index": 433,
       "item": "Never-Melt Ice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Volt Switch",
@@ -3855,8 +6777,16 @@ var SETDEX_SS = {
   "Machoke": {
     "Hiker Kevin": {
       "ability": "No Guard",
-      "index": 68,
-      "item": "Toxic Orb",
+      "index": 273,
+      "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Dynamic Punch"
@@ -3865,8 +6795,16 @@ var SETDEX_SS = {
     },
     "Lass Caroline": {
       "ability": "No Guard",
-      "index": 311,
+      "index": 193,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Brick Break",
@@ -3880,11 +6818,19 @@ var SETDEX_SS = {
   "Machop": {
     "School Kid Harrison": {
       "ability": "No Guard",
-      "index": 500,
+      "index": 26,
       "item": "Metronome",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "9",
       "moves": [
-        "HP (Dark)"
+        "Hidden Power Dark"
       ],
       "nature": "Modest"
     }
@@ -3892,8 +6838,16 @@ var SETDEX_SS = {
   "Magby": {
     "PKMN Breeder Kahlil": {
       "ability": "Flame Body",
-      "index": 405,
+      "index": 485,
       "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "55",
       "moves": [
         "Fire Blast",
@@ -3906,8 +6860,16 @@ var SETDEX_SS = {
   "Magcargo": {
     "Aroma Lady Angela": {
       "ability": "Solid Rock",
-      "index": 316,
+      "index": 198,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "29",
       "moves": [
         "Lava Plume",
@@ -3919,8 +6881,16 @@ var SETDEX_SS = {
     },
     "Belle & Pa Ava & Matt": {
       "ability": "Solid Rock",
-      "index": 400,
+      "index": 480,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Flamethrower",
@@ -3930,24 +6900,19 @@ var SETDEX_SS = {
       ],
       "nature": "Quiet"
     },
-    "Galactic Grunt #4 (Eterna Building)": {
-      "ability": "Solid Rock",
-      "index": 10,
-      "item": "Focus Sash",
-      "level": "30",
-      "moves": [
-        "Stealth Rock",
-        "Fire Spin",
-        "Will-O-Wisp",
-        "Lava Plume"
-      ],
-      "nature": "Bold"
-    },
     "P": {},
     "Picnicker Ana": {
       "ability": "Solid Rock",
-      "index": 91,
+      "index": 296,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Rock Slide",
@@ -3961,21 +6926,37 @@ var SETDEX_SS = {
   "Magmar": {
     "Cyclist Axel": {
       "ability": "Blaze",
-      "index": 28,
-      "item": "Expert Belt",
+      "index": 231,
+      "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Flamethrower",
         "Psychic",
-        "Thunder Punch",
-        "Confuse Ray"
+        "Light Screen",
+        "Reflect"
       ],
-      "nature": "Naive"
+      "nature": "Jolly"
     },
     "PKMN Trainer Mira": {
       "ability": "Blaze",
-      "index": 104,
+      "index": 309,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Flamethrower",
@@ -3989,8 +6970,16 @@ var SETDEX_SS = {
   "Magmortar": {
     "PKMN Trainer Paul": {
       "ability": "Mega Launcher",
-      "index": 172,
+      "index": 377,
       "item": "Charcoal",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Flamethrower",
@@ -4002,44 +6991,65 @@ var SETDEX_SS = {
     }
   },
   "Magnemite": {
-    "Galactic Grunt #2 (Valley Windworks)": {
+    "Galactic Grunt #2 Valley Windworks": {
       "ability": "Magnet Pull",
-      "index": 237,
+      "index": 119,
       "item": "Light Clay",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "19",
       "moves": [
         "Shock Wave",
-        "HP (Ground)",
+        "Hidden Power Ground",
         "Light Screen",
         "Reflect"
       ],
       "nature": "Timid"
     },
+    "Veteran Grant": {
+      "ability": "Sturdy",
+      "index": 67,
+      "item": "Petaya Berry",
+      "ivs": {
+        "at": 30,
+        "df": 30,
+        "hp": 31,
+        "sa": 30,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "14",
+      "moves": [
+        "Shock Wave",
+        "Mirror Shot",
+        "Hidden Power Water"
+      ],
+      "nature": "Modest"
+    },
     "Youngster Dallas": {
       "ability": "Sturdy",
-      "index": 520,
+      "index": 46,
       "item": "Air Balloon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Electro Ball",
-        "HP (Ice)",
+        "Hidden Power Ice",
         "Thunder Wave",
         "Agility"
-      ],
-      "nature": "Timid"
-    }
-  },
-  "Magneton": {
-    "Commander Jupiter": {
-      "ability": "Magnet Pull",
-      "index": 23,
-      "item": "Shuca Berry",
-      "level": "32",
-      "moves": [
-        "Thunderbolt",
-        "Flash Cannon",
-        "Signal Beam",
-        "Thunder Wave"
       ],
       "nature": "Timid"
     }
@@ -4047,8 +7057,16 @@ var SETDEX_SS = {
   "Magnezone": {
     "Hiker Jonathan": {
       "ability": "Magnet Pull",
-      "index": 129,
+      "index": 334,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "35",
       "moves": [
         "Flash Cannon",
@@ -4060,8 +7078,16 @@ var SETDEX_SS = {
     },
     "Hunter J #2": {
       "ability": "Magnet Pull",
-      "index": 380,
+      "index": 460,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Wild Charge",
@@ -4073,8 +7099,16 @@ var SETDEX_SS = {
     },
     "Pok\u00e9fan Leonard": {
       "ability": "Magnet Pull",
-      "index": 362,
+      "index": 442,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Wild Charge",
@@ -4086,8 +7120,16 @@ var SETDEX_SS = {
     },
     "Twins Tori & Tia": {
       "ability": "Magnet Pull",
-      "index": 408,
+      "index": 488,
       "item": "Light Clay",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Discharge",
@@ -4101,8 +7143,16 @@ var SETDEX_SS = {
   "Makuhita": {
     "Picnicker Diana": {
       "ability": "Guts",
-      "index": 533,
+      "index": 59,
       "item": "Persim Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Force Palm",
@@ -4113,10 +7163,39 @@ var SETDEX_SS = {
     }
   },
   "Mamoswine": {
+    "Elite Four Bertha": {
+      "ability": "Oblivious",
+      "index": 568,
+      "item": "Eject Pack",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Headlong Rush",
+        "Icicle Crash",
+        "Knock Off",
+        "Ice Shard"
+      ],
+      "nature": "Adamant"
+    },
     "Youngster Oliver": {
       "ability": "Thick Fat",
-      "index": 354,
+      "index": 434,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Earthquake",
@@ -4130,8 +7209,16 @@ var SETDEX_SS = {
   "Mantine": {
     "Ruin Maniac Calvin": {
       "ability": "Swift Swim",
-      "index": 424,
+      "index": 504,
       "item": "Wacan Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Hurricane",
@@ -4145,8 +7232,16 @@ var SETDEX_SS = {
   "Mantyke": {
     "Twins Liv & Liz": {
       "ability": "Swift Swim",
-      "index": 220,
+      "index": 102,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Whirlpool",
@@ -4160,8 +7255,16 @@ var SETDEX_SS = {
   "Mareep": {
     "Youngster Logan": {
       "ability": "Static",
-      "index": 488,
+      "index": 14,
       "item": "Hard Stone",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "8",
       "moves": [
         "Power Gem"
@@ -4172,8 +7275,16 @@ var SETDEX_SS = {
   "Marowak": {
     "Belle & Pa Beth & Bob": {
       "ability": "Rock Head",
-      "index": 367,
+      "index": 447,
       "item": "Thick Club",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Bonemerang",
@@ -4185,9 +7296,17 @@ var SETDEX_SS = {
     },
     "C": {},
     "Camper Anthony": {
-      "ability": "Rock Head",
-      "index": 60,
+      "ability": "Lightning Rod",
+      "index": 265,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Stealth Rock",
@@ -4199,8 +7318,16 @@ var SETDEX_SS = {
     },
     "Cyclist Nicole": {
       "ability": "Rock Head",
-      "index": 35,
+      "index": 240,
       "item": "Thick Club",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Bonemerang",
@@ -4212,8 +7339,16 @@ var SETDEX_SS = {
     },
     "Leader Fantina": {
       "ability": "Rock Head",
-      "index": 195,
+      "index": 399,
       "item": "Thick Club",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Earthquake",
@@ -4225,10 +7360,39 @@ var SETDEX_SS = {
     }
   },
   "Masquerain": {
+    "Elite Four Aaron Double": {
+      "ability": "Drizzle",
+      "index": 564,
+      "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Hurricane",
+        "Bug Buzz",
+        "Hydro Pump",
+        "Tailwind"
+      ],
+      "nature": "Modest"
+    },
     "Jogger Scott": {
       "ability": "Intimidate",
-      "index": 442,
+      "index": 522,
       "item": "Charti Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Air Slash",
@@ -4242,8 +7406,16 @@ var SETDEX_SS = {
   "Mawile": {
     "Collector Edwin": {
       "ability": "Huge Power",
-      "index": 419,
+      "index": 499,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Iron Head",
@@ -4255,8 +7427,16 @@ var SETDEX_SS = {
     },
     "Hiker Nicholas": {
       "ability": "Intimidate",
-      "index": 254,
+      "index": 136,
       "item": "White Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Metal Claw",
@@ -4270,8 +7450,16 @@ var SETDEX_SS = {
   "Medicham": {
     "Black Belt Rafael": {
       "ability": "Pure Power",
-      "index": 455,
+      "index": 535,
       "item": "Twisted Spoon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Fake Out",
@@ -4283,8 +7471,16 @@ var SETDEX_SS = {
     },
     "Psychic Diavolo": {
       "ability": "Pure Power",
-      "index": 165,
+      "index": 370,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "38",
       "moves": [
         "Fake Out",
@@ -4300,8 +7496,16 @@ var SETDEX_SS = {
     "P": {},
     "Psychic Kody": {
       "ability": "Pure Power",
-      "index": 285,
+      "index": 167,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Fake Out",
@@ -4313,11 +7517,19 @@ var SETDEX_SS = {
     },
     "School Kid Harrison": {
       "ability": "Pure Power",
-      "index": 498,
+      "index": 24,
       "item": "Metronome",
+      "ivs": {
+        "at": 31,
+        "df": 30,
+        "hp": 31,
+        "sa": 30,
+        "sd": 30,
+        "sp": 30
+      },
       "level": "9",
       "moves": [
-        "HP (Fighting)"
+        "Hidden Power Fighting"
       ],
       "nature": "Modest"
     }
@@ -4325,8 +7537,16 @@ var SETDEX_SS = {
   "Meganium": {
     "Aroma Lady Rose": {
       "ability": "Overgrow",
-      "index": 171,
+      "index": 376,
       "item": "Grass Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Energy Ball",
@@ -4338,8 +7558,16 @@ var SETDEX_SS = {
     },
     "Hunter J #2": {
       "ability": "Overgrow",
-      "index": 379,
+      "index": 459,
       "item": "Iron Ball",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Body Slam",
@@ -4352,8 +7580,16 @@ var SETDEX_SS = {
     "K": {},
     "Roughneck Kirby": {
       "ability": "Overgrow",
-      "index": 357,
+      "index": 437,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Solar Beam",
@@ -4364,11 +7600,63 @@ var SETDEX_SS = {
       "nature": "Relaxed"
     }
   },
+  "Mesprit": {
+    "Elite Four Lucian Double": {
+      "ability": "Levitate",
+      "index": 600,
+      "item": "Room Service",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Zen Headbutt",
+        "Drain Punch",
+        "Light Screen",
+        "Trick Room"
+      ],
+      "nature": "Sassy"
+    }
+  },
   "Metagross": {
+    "Elite Four Lucian Double": {
+      "ability": "Clear Body",
+      "index": 601,
+      "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Meteor Mash",
+        "Zen Headbutt",
+        "Hammer Arm",
+        "Bullet Punch"
+      ],
+      "nature": "Brave"
+    },
     "PKMN Trainer Paul chimchar": {
       "ability": "Clear Body",
-      "index": 149,
+      "index": 354,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Zen Headbutt",
@@ -4380,8 +7668,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul piplup": {
       "ability": "Clear Body",
-      "index": 152,
+      "index": 357,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Zen Headbutt",
@@ -4393,8 +7689,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul turtwig": {
       "ability": "Clear Body",
-      "index": 146,
+      "index": 351,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Zen Headbutt",
@@ -4408,8 +7712,16 @@ var SETDEX_SS = {
   "Metang": {
     "Collector Fernando": {
       "ability": "Clear Body",
-      "index": 416,
+      "index": 496,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Iron Head",
@@ -4420,11 +7732,42 @@ var SETDEX_SS = {
       "nature": "Adamant"
     }
   },
+  "Mew": {
+    "Elite Four Bertha Double": {
+      "ability": "Synchronize",
+      "index": 577,
+      "item": "Iapapa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Psychic",
+        "Weather Ball",
+        "Thunder Wave",
+        "Follow Me"
+      ],
+      "nature": "Modest"
+    }
+  },
   "Mightyena": {
     "Cyclist Nicole": {
       "ability": "Intimidate",
-      "index": 38,
+      "index": 243,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Psychic Fangs",
@@ -4436,8 +7779,16 @@ var SETDEX_SS = {
     },
     "Jogger Richard": {
       "ability": "Intimidate",
-      "index": 329,
+      "index": 409,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Sucker Punch",
@@ -4449,8 +7800,16 @@ var SETDEX_SS = {
     },
     "Picnicker Siena": {
       "ability": "Intimidate",
-      "index": 257,
+      "index": 139,
       "item": "Lagging Tail",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "23",
       "moves": [
         "Assurance",
@@ -4464,8 +7823,16 @@ var SETDEX_SS = {
   "Milotic": {
     "Aroma Lady Hannah": {
       "ability": "Marvel Scale",
-      "index": 138,
+      "index": 343,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Weather Ball",
@@ -4475,10 +7842,39 @@ var SETDEX_SS = {
       ],
       "nature": "Bold"
     },
+    "Champion Cynthia": {
+      "ability": "Marvel Scale",
+      "index": 606,
+      "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Muddy Water",
+        "Ice Beam",
+        "Dragon Tail",
+        "Recover"
+      ],
+      "nature": "Modest"
+    },
     "Collector Edwin": {
       "ability": "Marvel Scale",
-      "index": 420,
+      "index": 500,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Surf",
@@ -4492,8 +7888,16 @@ var SETDEX_SS = {
   "Miltank": {
     "Camper Luke": {
       "ability": "Thick Fat",
-      "index": 159,
+      "index": 364,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "37",
       "moves": [
         "Body Slam",
@@ -4505,8 +7909,16 @@ var SETDEX_SS = {
     },
     "Cyclist Ryan": {
       "ability": "Thick Fat",
-      "index": 44,
+      "index": 249,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "34",
       "moves": [
         "Body Slam",
@@ -4518,8 +7930,16 @@ var SETDEX_SS = {
     },
     "PKMN Breeder Albert": {
       "ability": "Thick Fat",
-      "index": 325,
+      "index": 405,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Body Slam",
@@ -4534,8 +7954,16 @@ var SETDEX_SS = {
   "Minun": {
     "Twins Liv & Liz": {
       "ability": "Lightning Rod",
-      "index": 219,
+      "index": 101,
       "item": "Magnet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Shock Wave",
@@ -4549,8 +7977,16 @@ var SETDEX_SS = {
   "Misdreavus": {
     "Jogger Craig": {
       "ability": "Levitate",
-      "index": 430,
+      "index": 510,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Shadow Ball",
@@ -4562,11 +7998,19 @@ var SETDEX_SS = {
     },
     "School Kid Harrison": {
       "ability": "Levitate",
-      "index": 499,
+      "index": 25,
       "item": "Metronome",
+      "ivs": {
+        "at": 30,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 30
+      },
       "level": "9",
       "moves": [
-        "HP (Psychic)"
+        "Hidden Power Psychic"
       ],
       "nature": "Modest"
     }
@@ -4574,8 +8018,16 @@ var SETDEX_SS = {
   "Mismagius": {
     "Leader Fantina": {
       "ability": "Levitate",
-      "index": 196,
+      "index": 400,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Shadow Ball",
@@ -4586,11 +8038,42 @@ var SETDEX_SS = {
       "nature": "Modest"
     }
   },
+  "Moltres": {
+    "Elite Four Flint": {
+      "ability": "Flame Body",
+      "index": 579,
+      "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Heat Wave",
+        "Air Slash",
+        "Solar Beam",
+        "Tailwind"
+      ],
+      "nature": "Modest"
+    }
+  },
   "Monferno": {
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Iron Fist",
-      "index": 209,
+      "index": 91,
       "item": "Charcoal",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Flame Wheel",
@@ -4602,8 +8085,16 @@ var SETDEX_SS = {
   "Mothim": {
     "PKMN Trainer Cheryl": {
       "ability": "Tinted Lens",
-      "index": 268,
+      "index": 150,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Signal Beam",
@@ -4617,8 +8108,16 @@ var SETDEX_SS = {
   "Mr. Mime": {
     "Artist William": {
       "ability": "Filter",
-      "index": 141,
+      "index": 346,
       "item": "Light Clay",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Reflect",
@@ -4630,8 +8129,16 @@ var SETDEX_SS = {
     },
     "Youngster Austin": {
       "ability": "Filter",
-      "index": 69,
+      "index": 274,
       "item": "Light Clay",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Reflect",
@@ -4642,26 +8149,19 @@ var SETDEX_SS = {
       "nature": "Timid"
     }
   },
-  "Muk": {
-    "Commander Jupiter": {
-      "ability": "Poison Touch",
-      "index": 24,
-      "item": "Custap Berry",
-      "level": "32",
-      "moves": [
-        "Poison Jab",
-        "Bulldoze",
-        "Toxic",
-        "Explosion"
-      ],
-      "nature": "Impish"
-    }
-  },
   "Munchlax": {
     "Youngster Logan": {
       "ability": "Gluttony",
-      "index": 489,
+      "index": 15,
       "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "8",
       "moves": [
         "Surf"
@@ -4672,8 +8172,16 @@ var SETDEX_SS = {
   "Murkrow": {
     "Commander Mars": {
       "ability": "Super Luck",
-      "index": 240,
+      "index": 122,
       "item": "Persim Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "20",
       "moves": [
         "Night Slash",
@@ -4685,23 +8193,60 @@ var SETDEX_SS = {
     },
     "Scientist Travon": {
       "ability": "Super Luck",
-      "index": 18,
-      "item": "Scope Lens",
+      "index": 223,
+      "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "31",
       "moves": [
-        "Air Cutter",
         "Night Slash",
-        "U-turn",
-        "Sucker Punch"
+        "Air Cutter",
+        "Night Shade",
+        "Taunt"
       ],
-      "nature": "Naive "
+      "nature": "Jolly"
     }
   },
   "Nidoking": {
+    "Elite Four Bertha": {
+      "ability": "Sheer Force",
+      "index": 572,
+      "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Sludge Bomb",
+        "Earth Power",
+        "Ice Beam",
+        "Flamethrower"
+      ],
+      "nature": "Modest"
+    },
     "Lass Cassidy": {
       "ability": "Sheer Force",
-      "index": 89,
+      "index": 294,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Poison Jab",
@@ -4717,8 +8262,16 @@ var SETDEX_SS = {
     "Y": {},
     "Youngster Wayne": {
       "ability": "Sheer Force",
-      "index": 86,
+      "index": 291,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Earth Power",
@@ -4732,8 +8285,16 @@ var SETDEX_SS = {
   "Nidoran-F": {
     "Lass Natalie": {
       "ability": "Poison Point",
-      "index": 486,
+      "index": 12,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "7",
       "moves": [
         "Shadow Claw"
@@ -4742,10 +8303,18 @@ var SETDEX_SS = {
     }
   },
   "Nidorino": {
-    "Galactic Grunt #1 (Floaroma Meadow)": {
+    "Galactic Grunt #1 Floaroma Meadow": {
       "ability": "Poison Point",
-      "index": 227,
-      "item": "Clear Amulet",
+      "index": 109,
+      "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "16",
       "moves": [
         "Poison Tail",
@@ -4759,8 +8328,16 @@ var SETDEX_SS = {
   "Ninetales": {
     "Pok\u00e9fan Rebekah": {
       "ability": "Flame Body",
-      "index": 364,
+      "index": 444,
       "item": "Light Clay",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Flamethrower",
@@ -4775,8 +8352,16 @@ var SETDEX_SS = {
     "B": {},
     "Bug Catcher Phillip": {
       "ability": "Speed Boost",
-      "index": 280,
+      "index": 162,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Swords Dance",
@@ -4787,8 +8372,16 @@ var SETDEX_SS = {
     },
     "Hiker Jonathan": {
       "ability": "Speed Boost",
-      "index": 127,
+      "index": 332,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "35",
       "moves": [
         "Dual Wingbeat",
@@ -4802,8 +8395,16 @@ var SETDEX_SS = {
   "Noctowl": {
     "Fisherman Joseph": {
       "ability": "Tinted Lens",
-      "index": 291,
+      "index": 173,
       "item": "Sharp Beak",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "26",
       "moves": [
         "Air Cutter",
@@ -4813,10 +8414,39 @@ var SETDEX_SS = {
       ],
       "nature": "Bold"
     },
+    "Galactic Grunt #2 Eterna Building": {
+      "ability": "Tinted Lens",
+      "index": 210,
+      "item": "Silk Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Air Slash ",
+        "Hyper Voice",
+        "Extrasensory",
+        "Tailwind"
+      ],
+      "nature": "Timid"
+    },
     "Roughneck Kirby": {
       "ability": "Tinted Lens",
-      "index": 358,
+      "index": 438,
       "item": "Zoom Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Hurricane",
@@ -4828,10 +8458,18 @@ var SETDEX_SS = {
     }
   },
   "Nosepass": {
-    "Galactic Grunt #2 (Valley Windworks)": {
+    "Galactic Grunt #2 Valley Windworks": {
       "ability": "Magnet Pull",
-      "index": 238,
+      "index": 120,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "19",
       "moves": [
         "Power Gem",
@@ -4843,8 +8481,16 @@ var SETDEX_SS = {
     },
     "Leader Roark": {
       "ability": "Magnet Pull",
-      "index": 548,
+      "index": 77,
       "item": "Air Balloon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "16",
       "moves": [
         "Rock Tomb",
@@ -4858,8 +8504,16 @@ var SETDEX_SS = {
   "Numel": {
     "Aroma Lady Jenna": {
       "ability": "Solid Rock",
-      "index": 312,
+      "index": 194,
       "item": "Charcoal",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Eruption"
@@ -4870,8 +8524,16 @@ var SETDEX_SS = {
   "Nuzleaf": {
     "Picnicker Siena": {
       "ability": "Chlorophyll",
-      "index": 258,
+      "index": 140,
       "item": "Iron Ball",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Payback",
@@ -4885,8 +8547,16 @@ var SETDEX_SS = {
   "Octillery": {
     "Lass Caroline": {
       "ability": "Mega Launcher",
-      "index": 310,
+      "index": 192,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Flamethrower",
@@ -4898,8 +8568,16 @@ var SETDEX_SS = {
     },
     "Twins Emma & Lil": {
       "ability": "Sniper",
-      "index": 334,
+      "index": 414,
       "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Water Spout"
@@ -4908,39 +8586,63 @@ var SETDEX_SS = {
     }
   },
   "Omanyte": {
-    "Y": {},
     "Youngster Jonathon": {
       "ability": "Shell Armor",
-      "index": 545,
+      "index": 76,
       "item": "Rindo Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Bubble Beam",
         "Rock Tomb",
-        "HP (Electric)",
+        "Hidden Power Electric",
         "Mud Shot"
       ],
       "nature": "Quirky"
-    }
+    },
+    "o": {}
   },
   "Omastar": {
     "Hiker Theodore": {
       "ability": "Shell Armor",
-      "index": 55,
+      "index": 260,
       "item": "Rindo Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Ancient Power",
         "Scald",
         "Mud Shot",
-        "Aurora Beam"
+        "Shell Smash"
       ],
       "nature": "Modest"
     },
     "Jogger Scott": {
       "ability": "Shell Armor",
-      "index": 444,
+      "index": 524,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Scald",
@@ -4951,12 +8653,87 @@ var SETDEX_SS = {
       "nature": "Timid"
     }
   },
+  "Onix": {
+    "Veteran Grant": {
+      "ability": "Sturdy",
+      "index": 66,
+      "item": "Liechi Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "15",
+      "moves": [
+        "Bulldoze",
+        "Rock Tomb",
+        "Rock Smash",
+        "Rollout"
+      ],
+      "nature": "Adamant"
+    }
+  },
+  "Palkia": {
+    "Elite Four Aaron": {
+      "ability": "Pressure",
+      "index": 557,
+      "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Dragon Claw",
+        "Liquidation",
+        "Earthquake",
+        "Bulk Up"
+      ],
+      "nature": "Lonely"
+    },
+    "Elite Four Aaron Double": {
+      "ability": "Pressure",
+      "index": 565,
+      "item": "Wide Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Spacial Rend",
+        "Scald",
+        "Thunder",
+        "Whirlpool"
+      ],
+      "nature": "Quirky"
+    }
+  },
   "Parasect": {
     "B": {},
     "Bug Catcher Jack": {
       "ability": "Poison Heal",
-      "index": 272,
+      "index": 154,
       "item": "Toxic Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Protect",
@@ -4970,8 +8747,16 @@ var SETDEX_SS = {
   "Pelipper": {
     "Aroma Lady Hannah": {
       "ability": "Rain Dish",
-      "index": 137,
+      "index": 342,
       "item": "Wacan Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Hurricane",
@@ -4984,8 +8769,16 @@ var SETDEX_SS = {
     "P": {},
     "PKMN Breeder Amber": {
       "ability": "Rain Dish",
-      "index": 412,
+      "index": 492,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Hurricane",
@@ -4997,8 +8790,16 @@ var SETDEX_SS = {
     },
     "Psychic Elijah": {
       "ability": "Rain Dish",
-      "index": 276,
+      "index": 158,
       "item": "Wacan Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Water Pulse",
@@ -5010,8 +8811,16 @@ var SETDEX_SS = {
     },
     "Young Couple Ty & Sue": {
       "ability": "Rain Dish",
-      "index": 349,
+      "index": 429,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Weather Ball",
@@ -5025,8 +8834,16 @@ var SETDEX_SS = {
   "Persian": {
     "Fisherman Joseph": {
       "ability": "Unnerve",
-      "index": 289,
+      "index": 171,
       "item": "Wide Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "26",
       "moves": [
         "Body Slam",
@@ -5038,8 +8855,16 @@ var SETDEX_SS = {
     },
     "Jogger Scott": {
       "ability": "Technician",
-      "index": 443,
+      "index": 523,
       "item": "Silk Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Return",
@@ -5053,8 +8878,16 @@ var SETDEX_SS = {
   "Pidgeot": {
     "Aroma Lady Rose": {
       "ability": "No Guard",
-      "index": 169,
+      "index": 374,
       "item": "Choice Specs",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Hurricane",
@@ -5066,8 +8899,16 @@ var SETDEX_SS = {
     },
     "Bird Keeper Alexandra": {
       "ability": "No Guard",
-      "index": 308,
+      "index": 186,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "29",
       "moves": [
         "Hurricane",
@@ -5078,22 +8919,38 @@ var SETDEX_SS = {
     },
     "Cyclist Kayla": {
       "ability": "No Guard",
-      "index": 51,
-      "item": "Expert Belt",
+      "index": 256,
+      "item": "Throat Spray",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Heat Wave",
         "Air Slash",
-        "U-turn",
-        "Uproar"
+        "Hyper Voice",
+        "Tailwind"
       ],
       "nature": "Naive"
     },
     "K": {},
     "PKMN Breeder Albert": {
       "ability": "No Guard",
-      "index": 326,
+      "index": 406,
       "item": "Fire Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Heat Wave",
@@ -5105,8 +8962,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Barry #4 chimchar": {
       "ability": "No Guard",
-      "index": 388,
+      "index": 468,
       "item": "Wise Glasses",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Hurricane",
@@ -5120,8 +8985,16 @@ var SETDEX_SS = {
   "Pidgey": {
     "PKMN Trainer Barry #2 chimchar": {
       "ability": "No Guard",
-      "index": 509,
+      "index": 35,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Wing Attack",
@@ -5134,8 +9007,16 @@ var SETDEX_SS = {
   "Pikachu": {
     "Cyclist Rachel": {
       "ability": "Static",
-      "index": 49,
+      "index": 254,
       "item": "Light Ball",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "34",
       "moves": [
         "Thunderbolt",
@@ -5147,10 +9028,39 @@ var SETDEX_SS = {
     }
   },
   "Piloswine": {
+    "Galactic Grunt #3 Eterna Building": {
+      "ability": "Thick Fat",
+      "index": 214,
+      "item": "Salac Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Icicle Crash",
+        "Bulldoze",
+        "Reversal",
+        "Endure"
+      ],
+      "nature": "Brave"
+    },
     "Youngster Austin": {
       "ability": "Thick Fat",
-      "index": 70,
+      "index": 275,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Avalanche",
@@ -5164,8 +9074,16 @@ var SETDEX_SS = {
   "Pineco": {
     "Camper Curtis": {
       "ability": "Rough Skin",
-      "index": 530,
+      "index": 56,
       "item": "Jaboca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Payback",
@@ -5176,10 +9094,39 @@ var SETDEX_SS = {
     }
   },
   "Pinsir": {
+    "Elite Four Aaron": {
+      "ability": "Skill Link",
+      "index": 556,
+      "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Pin Missile",
+        "Rock Blast",
+        "Arm Thrust",
+        "U-Turn"
+      ],
+      "nature": "Adamant"
+    },
     "Jogger Raul": {
       "ability": "Skill Link",
-      "index": 341,
+      "index": 421,
       "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Pin Missile",
@@ -5193,8 +9140,16 @@ var SETDEX_SS = {
   "Piplup": {
     "PKMN Trainer Barry #2 chimchar": {
       "ability": "Clear Body",
-      "index": 510,
+      "index": 36,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Bubble Beam",
@@ -5205,8 +9160,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Barry chimchar": {
       "ability": "Clear Body",
-      "index": 476,
+      "index": 2,
       "item": "-",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "5",
       "moves": [
         "Pound",
@@ -5216,8 +9179,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul turtwig": {
       "ability": "Clear Body",
-      "index": 147,
+      "index": 352,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Protect"
@@ -5228,8 +9199,16 @@ var SETDEX_SS = {
   "Plusle": {
     "Twins Liv & Liz": {
       "ability": "Lightning Rod",
-      "index": 217,
+      "index": 99,
       "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Volt Switch",
@@ -5243,8 +9222,16 @@ var SETDEX_SS = {
   "Poliwrath": {
     "Black Belt Derek": {
       "ability": "Swift Swim",
-      "index": 432,
+      "index": 512,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Drain Punch",
@@ -5256,8 +9243,16 @@ var SETDEX_SS = {
     },
     "Black Belt Kyle": {
       "ability": "Swift Swim",
-      "index": 132,
+      "index": 337,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Ice Punch",
@@ -5271,8 +9266,16 @@ var SETDEX_SS = {
   "Ponyta": {
     "Lass Briana": {
       "ability": "Flame Body",
-      "index": 275,
+      "index": 157,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Flame Wheel",
@@ -5287,8 +9290,16 @@ var SETDEX_SS = {
   "Poochyena": {
     "Youngster Logan": {
       "ability": "Intimidate",
-      "index": 487,
+      "index": 13,
       "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "8",
       "moves": [
         "Facade"
@@ -5299,8 +9310,16 @@ var SETDEX_SS = {
   "Porygon": {
     "Picnicker Siena": {
       "ability": "Analytic",
-      "index": 256,
+      "index": 138,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Swift",
@@ -5314,8 +9333,16 @@ var SETDEX_SS = {
   "Porygon2": {
     "PKMN Trainer Mira": {
       "ability": "Analytic",
-      "index": 105,
+      "index": 310,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Tri Attack",
@@ -5326,25 +9353,41 @@ var SETDEX_SS = {
       "nature": "Quiet"
     },
     "Scientist Travon": {
-      "ability": "Analytic",
-      "index": 17,
-      "item": "Chople Berry",
+      "ability": "Download",
+      "index": 225,
+      "item": "Scope Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "31",
       "moves": [
-        "Tri Attack",
-        "Charge Beam",
-        "Psybeam",
-        "Icy Wind"
+        "Ice Beam",
+        "Thunderbolt",
+        "Sleep Talk",
+        "Rest"
       ],
-      "nature": "Quiet"
+      "nature": "Bold"
     }
   },
   "Primeape": {
     "B": {},
     "Black Belt Darren": {
       "ability": "Iron Fist",
-      "index": 451,
+      "index": 531,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Ice Punch",
@@ -5356,8 +9399,16 @@ var SETDEX_SS = {
     },
     "Black Belt Sakai": {
       "ability": "Iron Fist",
-      "index": 160,
+      "index": 365,
       "item": "Black Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "38",
       "moves": [
         "Mach Punch",
@@ -5371,8 +9422,16 @@ var SETDEX_SS = {
   "Prinplup": {
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Clear Body",
-      "index": 205,
+      "index": 87,
       "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Bubble Beam",
@@ -5385,8 +9444,16 @@ var SETDEX_SS = {
   "Psyduck": {
     "Youngster Michael": {
       "ability": "Swift Swim",
-      "index": 515,
+      "index": 41,
       "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Water Pulse",
@@ -5400,8 +9467,16 @@ var SETDEX_SS = {
   "Pupitar": {
     "Camper Zackary": {
       "ability": "Guts",
-      "index": 252,
+      "index": 134,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Bulldoze",
@@ -5415,8 +9490,16 @@ var SETDEX_SS = {
   "Purugly": {
     "Commander Mars": {
       "ability": "Technician",
-      "index": 239,
+      "index": 121,
       "item": "Liechi Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "20",
       "moves": [
         "Headbutt",
@@ -5428,8 +9511,16 @@ var SETDEX_SS = {
     },
     "Jogger Wyatt": {
       "ability": "Technician",
-      "index": 396,
+      "index": 476,
       "item": "Silk Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "44",
       "moves": [
         "Fake Out",
@@ -5443,8 +9534,16 @@ var SETDEX_SS = {
   "Quagsire": {
     "Hiker Jonathan": {
       "ability": "Unaware",
-      "index": 126,
+      "index": 331,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "35",
       "moves": [
         "Scald",
@@ -5456,8 +9555,16 @@ var SETDEX_SS = {
     },
     "Ruin Maniac Calvin": {
       "ability": "Water Absorb",
-      "index": 426,
+      "index": 506,
       "item": "Aguav Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Waterfall",
@@ -5469,10 +9576,18 @@ var SETDEX_SS = {
     }
   },
   "Qwilfish": {
-    "Galactic Grunt #2 (Floaroma Meadow)": {
+    "Galactic Grunt #2 Floaroma Meadow": {
       "ability": "Swift Swim",
-      "index": 232,
+      "index": 114,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Aqua Jet"
@@ -5480,11 +9595,42 @@ var SETDEX_SS = {
       "nature": "Adamant"
     }
   },
+  "Raikou": {
+    "Elite Four Aaron Double": {
+      "ability": "Inner Focus",
+      "index": 561,
+      "item": "Clear Amulet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Thunder",
+        "Scald",
+        "Aura Sphere",
+        "Volt Switch"
+      ],
+      "nature": "Timid"
+    }
+  },
   "Rampardos": {
     "Black Belt Rafael": {
       "ability": "Rock Head",
-      "index": 458,
+      "index": 538,
       "item": "Zoom Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Stone Edge",
@@ -5498,8 +9644,16 @@ var SETDEX_SS = {
   "Rapidash": {
     "Twins Emma & Lil": {
       "ability": "Flame Body",
-      "index": 335,
+      "index": 415,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Flame Wheel",
@@ -5513,8 +9667,16 @@ var SETDEX_SS = {
   "Raticate": {
     "Rancher Marco": {
       "ability": "Guts",
-      "index": 395,
+      "index": 475,
       "item": "Normal Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "44",
       "moves": [
         "Facade",
@@ -5525,11 +9687,65 @@ var SETDEX_SS = {
       "nature": "Jolly"
     }
   },
+  "Rayquaza": {
+    "Champion Cynthia": {
+      "ability": "Air Lock",
+      "index": 605,
+      "item": "White Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "100",
+      "moves": [
+        "Dragon Ascent",
+        "Draco Meteor",
+        "Ancient Power",
+        "Tailwind"
+      ],
+      "nature": "Lonely"
+    }
+  },
+  "Regirock": {
+    "Elite Four Bertha": {
+      "ability": "Solid Rock",
+      "index": 571,
+      "item": "Loaded Dice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Rock Blast",
+        "Hammer Arm",
+        "Ice Punch",
+        "Curse"
+      ],
+      "nature": "Impish"
+    }
+  },
   "Relicanth": {
     "Ruin Maniac Calvin": {
       "ability": "Swift Swim",
-      "index": 425,
+      "index": 505,
       "item": "Hard Stone",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Liquidation",
@@ -5543,8 +9759,16 @@ var SETDEX_SS = {
   "Rhydon": {
     "Hiker Justin": {
       "ability": "Solid Rock",
-      "index": 57,
+      "index": 262,
       "item": "Passho Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Bulldoze",
@@ -5559,8 +9783,16 @@ var SETDEX_SS = {
     "G": {},
     "Galactic Grunt #1": {
       "ability": "Reckless",
-      "index": 201,
+      "index": 83,
       "item": "Rindo Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Bulldoze",
@@ -5573,8 +9805,16 @@ var SETDEX_SS = {
   "Rhyperior": {
     "Black Belt Colby": {
       "ability": "Rock Head",
-      "index": 467,
+      "index": 547,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "49",
       "moves": [
         "Stone Edge",
@@ -5583,13 +9823,42 @@ var SETDEX_SS = {
         "Avalanche"
       ],
       "nature": "Relaxed"
+    },
+    "Elite Four Bertha Double": {
+      "ability": "Solid Rock",
+      "index": 578,
+      "item": "Clear Amulet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "High Horsepower",
+        "Stone Edge",
+        "Ice Punch",
+        "Rock Tomb"
+      ],
+      "nature": "Careful"
     }
   },
   "Roselia": {
     "PKMN Trainer Nando": {
       "ability": "Technician",
-      "index": 221,
+      "index": 103,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Mega Drain",
@@ -5603,8 +9872,16 @@ var SETDEX_SS = {
   "Roserade": {
     "Ace Trainer Dennis": {
       "ability": "Technician",
-      "index": 449,
+      "index": 529,
       "item": "Miracle Seed",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Magical Leaf",
@@ -5616,8 +9893,16 @@ var SETDEX_SS = {
     },
     "Leader Gardenia": {
       "ability": "Technician",
-      "index": 323,
+      "index": 205,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "30",
       "moves": [
         "Magical Leaf",
@@ -5630,8 +9915,16 @@ var SETDEX_SS = {
     "P": {},
     "PKMN Trainer Nando #2": {
       "ability": "Technician",
-      "index": 167,
+      "index": 372,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Magical Leaf",
@@ -5646,8 +9939,16 @@ var SETDEX_SS = {
   "Rotom": {
     "Cyclist Rachel": {
       "ability": "Levitate",
-      "index": 48,
+      "index": 253,
       "item": "Colbur Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Discharge",
@@ -5659,8 +9960,16 @@ var SETDEX_SS = {
     },
     "Youngster Donny": {
       "ability": "Levitate",
-      "index": 184,
+      "index": 389,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Will-O-Wisp",
@@ -5675,8 +9984,16 @@ var SETDEX_SS = {
   "Rotom-Frost": {
     "Ace Trainer Allen": {
       "ability": "Levitate",
-      "index": 193,
+      "index": 397,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Charge Beam",
@@ -5691,8 +10008,16 @@ var SETDEX_SS = {
   "Rotom-Heat": {
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Levitate",
-      "index": 116,
+      "index": 321,
       "item": "Chesto Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Flamethrower",
@@ -5706,8 +10031,16 @@ var SETDEX_SS = {
   "Rotom-Mow": {
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Levitate",
-      "index": 110,
+      "index": 315,
       "item": "Chesto Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Energy Ball",
@@ -5721,8 +10054,16 @@ var SETDEX_SS = {
   "Rotom-Wash": {
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Levitate",
-      "index": 122,
+      "index": 327,
       "item": "Chesto Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Scald",
@@ -5736,8 +10077,16 @@ var SETDEX_SS = {
   "Sableye": {
     "PKMN Breeder Jennifer": {
       "ability": "Prankster",
-      "index": 345,
+      "index": 425,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "43",
       "moves": [
         "Shadow Sneak",
@@ -5750,8 +10099,16 @@ var SETDEX_SS = {
     "S": {},
     "School Kid Mackenzie": {
       "ability": "Prankster",
-      "index": 187,
+      "index": 392,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Power Gem",
@@ -5765,8 +10122,16 @@ var SETDEX_SS = {
   "Salamence": {
     "Hunter J #2": {
       "ability": "Intimidate",
-      "index": 383,
+      "index": 463,
       "item": "Macho Brace",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Flamethrower",
@@ -5780,8 +10145,16 @@ var SETDEX_SS = {
   "Sandshrew": {
     "Leader Roark": {
       "ability": "Sand Rush",
-      "index": 549,
+      "index": 78,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "16",
       "moves": [
         "Bulldoze",
@@ -5796,8 +10169,16 @@ var SETDEX_SS = {
     "C": {},
     "Camper Diego": {
       "ability": "Unburden",
-      "index": 80,
+      "index": 285,
       "item": "Weakness Policy",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Leaf Blade",
@@ -5809,10 +10190,39 @@ var SETDEX_SS = {
     }
   },
   "Scizor": {
+    "Elite Four Aaron Double": {
+      "ability": "Technician",
+      "index": 563,
+      "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Bug Bite",
+        "Iron Head",
+        "Dual Wingbeat",
+        "Bullet Punch"
+      ],
+      "nature": "Jolly"
+    },
     "PKMN Trainer Dawn/Lucas piplup": {
       "ability": "Technician",
-      "index": 124,
+      "index": 329,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Bullet Punch",
@@ -5826,8 +10236,16 @@ var SETDEX_SS = {
   "Scyther": {
     "Hiker Lorenzo": {
       "ability": "Technician",
-      "index": 77,
+      "index": 282,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Razor Leaf",
@@ -5842,8 +10260,16 @@ var SETDEX_SS = {
   "Seadra": {
     "Aroma Lady Hannah": {
       "ability": "Swift Swim",
-      "index": 140,
+      "index": 345,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Muddy Water",
@@ -5855,8 +10281,16 @@ var SETDEX_SS = {
     },
     "Fisherman Zachary": {
       "ability": "Swift Swim",
-      "index": 297,
+      "index": 179,
       "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Flip Turn"
@@ -5867,8 +10301,16 @@ var SETDEX_SS = {
   "Seaking": {
     "Belle & Pa Beth & Bob": {
       "ability": "Swift Swim",
-      "index": 368,
+      "index": 448,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Ice Beam",
@@ -5882,8 +10324,16 @@ var SETDEX_SS = {
   "Sealeo": {
     "Hiker Daniel": {
       "ability": "Thick Fat",
-      "index": 245,
+      "index": 127,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Brine",
@@ -5897,8 +10347,16 @@ var SETDEX_SS = {
   "Sentret": {
     "Lass Natalie": {
       "ability": "Adaptability",
-      "index": 484,
+      "index": 10,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "7",
       "moves": [
         "Flamethrower"
@@ -5909,8 +10367,16 @@ var SETDEX_SS = {
   "Seviper": {
     "Manager Mercury": {
       "ability": "Protean",
-      "index": 225,
+      "index": 107,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Poison Tail",
@@ -5924,8 +10390,16 @@ var SETDEX_SS = {
   "Sharpedo": {
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Speed Boost",
-      "index": 117,
+      "index": 322,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Liquidation",
@@ -5936,11 +10410,42 @@ var SETDEX_SS = {
       "nature": "Naive"
     }
   },
+  "Shaymin": {
+    "Elite Four Flint Double": {
+      "ability": "Chlorophyll",
+      "index": 588,
+      "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Solar Beam",
+        "Energy Ball",
+        "Weather Ball",
+        "Earth Power"
+      ],
+      "nature": "Modest"
+    }
+  },
   "Shedinja": {
     "Hiker Robert": {
       "ability": "Sharpness",
-      "index": 134,
+      "index": 339,
       "item": "Spell Tag",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "69",
       "moves": [
         "Shadow Sneak"
@@ -5949,8 +10454,16 @@ var SETDEX_SS = {
     },
     "Ninja Boy Zach": {
       "ability": "Sharpness",
-      "index": 301,
+      "index": 183,
       "item": "Bright Powder",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Swords Dance",
@@ -5960,23 +10473,18 @@ var SETDEX_SS = {
       ],
       "nature": "Adamant"
     },
-    "Scientist Travon": {
-      "ability": "Sharpness",
-      "index": 20,
-      "item": "BrightPowder",
-      "level": "31",
-      "moves": [
-        "Shadow Claw",
-        "Bug Bite",
-        "Night Slash",
-        "Shadow Sneak"
-      ],
-      "nature": "Adamant"
-    },
     "Waitress Kati": {
       "ability": "Sharpness",
-      "index": 423,
+      "index": 503,
       "item": "Focus Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Shadow Sneak",
@@ -5987,11 +10495,42 @@ var SETDEX_SS = {
       "nature": "Adamant"
     }
   },
+  "Shelgon": {
+    "Scientist Travon": {
+      "ability": "Rock Head",
+      "index": 224,
+      "item": "Lansat Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "31",
+      "moves": [
+        "Dragon Claw",
+        "Fire Fang",
+        "Facade",
+        "Focus Energy"
+      ],
+      "nature": "Adamant"
+    }
+  },
   "Shellos": {
     "PKMN Trainer Paul": {
       "ability": "Rain Dish",
-      "index": 480,
+      "index": 6,
       "item": "-",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "6",
       "moves": [
         "Whirlpool",
@@ -6004,8 +10543,16 @@ var SETDEX_SS = {
   "Shiftry": {
     "Camper Parker": {
       "ability": "Chlorophyll",
-      "index": 92,
+      "index": 297,
       "item": "Tanga Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Night Slash",
@@ -6017,8 +10564,16 @@ var SETDEX_SS = {
     },
     "Pok\u00e9fan Rebekah": {
       "ability": "Chlorophyll",
-      "index": 365,
+      "index": 445,
       "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Sucker Punch",
@@ -6030,8 +10585,16 @@ var SETDEX_SS = {
     },
     "School Kid Chance": {
       "ability": "Chlorophyll",
-      "index": 189,
+      "index": 394,
       "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Explosion",
@@ -6047,8 +10610,16 @@ var SETDEX_SS = {
   "Shroomish": {
     "Worker Mason": {
       "ability": "Poison Heal",
-      "index": 539,
+      "index": 65,
       "item": "Toxic Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Mega Drain",
@@ -6060,10 +10631,39 @@ var SETDEX_SS = {
     }
   },
   "Shuckle": {
+    "Elite Four Aaron": {
+      "ability": "Sturdy",
+      "index": 555,
+      "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Seismic Toss",
+        "Struggle Bug",
+        "Final Gambit",
+        "Sticky Web"
+      ],
+      "nature": "Relaxed"
+    },
     "Hiker Robert": {
       "ability": "Sand Stream",
-      "index": 133,
+      "index": 338,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Rollout",
@@ -6075,8 +10675,16 @@ var SETDEX_SS = {
     },
     "Ruin Maniac Karl": {
       "ability": "Sand Stream",
-      "index": 376,
+      "index": 456,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Rock Slide",
@@ -6088,11 +10696,40 @@ var SETDEX_SS = {
     }
   },
   "Skarmory": {
+    "Galactic Grunt #3 Eterna Building": {
+      "ability": "Sturdy",
+      "index": 213,
+      "item": "Rocky Helmet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Drill Peck",
+        "Drill Run",
+        "Taunt",
+        "Spikes"
+      ],
+      "nature": "Impish"
+    },
     "P": {},
     "PKMN Trainer Barry #3": {
       "ability": "Clear Body",
-      "index": 175,
+      "index": 380,
       "item": "Wacan Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Drill Peck",
@@ -6106,8 +10743,16 @@ var SETDEX_SS = {
   "Skiploom": {
     "Aroma Lady Taylor": {
       "ability": "Cotton Down",
-      "index": 212,
+      "index": 94,
       "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Mega Drain",
@@ -6119,8 +10764,16 @@ var SETDEX_SS = {
     },
     "Youngster Sebastian": {
       "ability": "Chlorophyll",
-      "index": 523,
+      "index": 49,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "12",
       "moves": [
         "U-turn"
@@ -6131,8 +10784,16 @@ var SETDEX_SS = {
   "Skorupi": {
     "Hunter ???": {
       "ability": "Battle Armor",
-      "index": 541,
+      "index": 70,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Bug Bite",
@@ -6146,23 +10807,39 @@ var SETDEX_SS = {
   "Skuntank": {
     "Commander Jupiter": {
       "ability": "Aftermath",
-      "index": 25,
-      "item": "Air Balloon",
+      "index": 227,
+      "item": "Shuca Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
-        "Sludge Bomb",
-        "Dark Pulse",
-        "Knock Off",
-        "Fire Spin"
+        "Venoshock",
+        "Snarl",
+        "Thief",
+        "Toxic"
       ],
-      "nature": "Naive"
+      "nature": "Bold"
     }
   },
   "Slaking": {
     "Camper Luke": {
       "ability": "Truant",
-      "index": 157,
+      "index": 362,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "37",
       "moves": [
         "Focus Punch",
@@ -6175,8 +10852,16 @@ var SETDEX_SS = {
     "L": {},
     "Lass Molly": {
       "ability": "Truant",
-      "index": 181,
+      "index": 386,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Fake Out",
@@ -6188,8 +10873,16 @@ var SETDEX_SS = {
     },
     "Twins Emma & Lil": {
       "ability": "Truant",
-      "index": 333,
+      "index": 413,
       "item": "Iapapa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Sucker Punch",
@@ -6204,8 +10897,16 @@ var SETDEX_SS = {
   "Slowbro": {
     "Cowgirl Shelley": {
       "ability": "Hydration",
-      "index": 347,
+      "index": 427,
       "item": "Aguav Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Scald",
@@ -6217,8 +10918,16 @@ var SETDEX_SS = {
     },
     "Hunter J #2": {
       "ability": "Hydration",
-      "index": 381,
+      "index": 461,
       "item": "Eject Button",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Scald",
@@ -6233,8 +10942,16 @@ var SETDEX_SS = {
     "K": {},
     "PKMN Trainer Conway #2": {
       "ability": "Analytic",
-      "index": 179,
+      "index": 384,
       "item": "TwistedSpoon",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Scald",
@@ -6248,8 +10965,16 @@ var SETDEX_SS = {
   "Slowpoke": {
     "PKMN Trainer Conway": {
       "ability": "Hydration",
-      "index": 504,
+      "index": 30,
       "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Water Pulse",
@@ -6260,10 +10985,18 @@ var SETDEX_SS = {
     }
   },
   "Slugma": {
-    "Galactic Grunt #1 (Floaroma Meadow)": {
+    "Galactic Grunt #1 Floaroma Meadow": {
       "ability": "Flame Body",
-      "index": 229,
+      "index": 111,
       "item": "Charcoal",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Incinerate",
@@ -6277,8 +11010,16 @@ var SETDEX_SS = {
   "Smoochum": {
     "PKMN Breeder Kahlil": {
       "ability": "Unburden",
-      "index": 406,
+      "index": 486,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "55",
       "moves": [
         "Ice Beam",
@@ -6292,8 +11033,16 @@ var SETDEX_SS = {
   "Sneasel": {
     "Hiker Lorenzo": {
       "ability": "Inner Focus",
-      "index": 78,
+      "index": 283,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Ice Shard",
@@ -6305,8 +11054,16 @@ var SETDEX_SS = {
     },
     "Young Couple Mike & Nat": {
       "ability": "Inner Focus",
-      "index": 374,
+      "index": 454,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Knock Off",
@@ -6322,8 +11079,16 @@ var SETDEX_SS = {
     "P": {},
     "PKMN Trainer Barry #3": {
       "ability": "Thick Fat",
-      "index": 177,
+      "index": 382,
       "item": "Normal Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Body Slam",
@@ -6338,8 +11103,16 @@ var SETDEX_SS = {
     "C": {},
     "Collector Terry": {
       "ability": "Levitate",
-      "index": 95,
+      "index": 300,
       "item": "Flying Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Acrobatics",
@@ -6351,8 +11124,16 @@ var SETDEX_SS = {
     },
     "School Kid Chance": {
       "ability": "Levitate",
-      "index": 188,
+      "index": 393,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Explosion",
@@ -6367,8 +11148,16 @@ var SETDEX_SS = {
   "Spearow": {
     "Lass Natalie": {
       "ability": "Sniper",
-      "index": 485,
+      "index": 11,
       "item": "Scope Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "7",
       "moves": [
         "U-turn"
@@ -6379,8 +11168,16 @@ var SETDEX_SS = {
   "Spheal": {
     "Youngster Michael": {
       "ability": "Thick Fat",
-      "index": 517,
+      "index": 43,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Ice Ball",
@@ -6392,8 +11189,16 @@ var SETDEX_SS = {
   "Spinda": {
     "Jogger Richard": {
       "ability": "Punk Rock",
-      "index": 330,
+      "index": 410,
       "item": "Silk Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Thrash",
@@ -6407,8 +11212,16 @@ var SETDEX_SS = {
   "Spiritomb": {
     "Leader Fantina": {
       "ability": "Emergency Exit",
-      "index": 198,
+      "index": 402,
       "item": "Zoom Lens",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Dark Pulse",
@@ -6420,8 +11233,16 @@ var SETDEX_SS = {
     },
     "Picnicker Tori": {
       "ability": "Emergency Exit",
-      "index": 84,
+      "index": 289,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Shadow Sneak",
@@ -6436,8 +11257,16 @@ var SETDEX_SS = {
   "Stantler": {
     "Camper Luke": {
       "ability": "Intimidate",
-      "index": 158,
+      "index": 363,
       "item": "Ground Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "37",
       "moves": [
         "Zen Headbutt",
@@ -6452,8 +11281,16 @@ var SETDEX_SS = {
   "Staraptor": {
     "Black Belt Jeffery": {
       "ability": "Reckless",
-      "index": 461,
+      "index": 541,
       "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "48",
       "moves": [
         "Brave Bird",
@@ -6464,8 +11301,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Barry #4 piplup": {
       "ability": "Reckless",
-      "index": 391,
+      "index": 471,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Brave Bird",
@@ -6478,8 +11323,16 @@ var SETDEX_SS = {
   "Staravia": {
     "Bird Keeper Alexandra": {
       "ability": "Reckless",
-      "index": 306,
+      "index": 184,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "29",
       "moves": [
         "U-Turn",
@@ -6493,8 +11346,16 @@ var SETDEX_SS = {
   "Starly": {
     "PKMN Trainer Barry #2 piplup": {
       "ability": "Reckless",
-      "index": 512,
+      "index": 38,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Wing Attack",
@@ -6505,8 +11366,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul": {
       "ability": "Reckless",
-      "index": 478,
+      "index": 4,
       "item": "-",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "6",
       "moves": [
         "Quick Attack",
@@ -6518,21 +11387,58 @@ var SETDEX_SS = {
   "Stunky": {
     "Camper Curtis": {
       "ability": "Aftermath",
-      "index": 531,
+      "index": 57,
       "item": "Loaded Dice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Fury Swipes",
         "Toxic"
       ],
       "nature": "Jolly"
+    },
+    "Galactic Grunt #2 Eterna Building": {
+      "ability": "Stench",
+      "index": 211,
+      "item": "Eviolite",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Gunk Shot",
+        "Knock Off",
+        "Scary Face",
+        "Explosion"
+      ],
+      "nature": "Adamant"
     }
   },
   "Sudowoodo": {
     "Hiker Jonathan": {
       "ability": "Rock Head",
-      "index": 128,
+      "index": 333,
       "item": "Passho Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "35",
       "moves": [
         "Wood Hammer",
@@ -6544,12 +11450,20 @@ var SETDEX_SS = {
     },
     "Leader Gardenia": {
       "ability": "Rock Head",
-      "index": 320,
+      "index": 202,
       "item": "Chople Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "30",
       "moves": [
+        "Rock Slide",
         "Wood Hammer",
-        "Rock Tomb",
         "Zen Headbutt",
         "Bulldoze"
       ],
@@ -6557,8 +11471,16 @@ var SETDEX_SS = {
     },
     "Ruin Maniac Karl": {
       "ability": "Rock Head",
-      "index": 377,
+      "index": 457,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Wood Hammer",
@@ -6572,8 +11494,16 @@ var SETDEX_SS = {
   "Sunflora": {
     "Leader Gardenia": {
       "ability": "Solar Power",
-      "index": 319,
+      "index": 201,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "30",
       "moves": [
         "Solar Beam",
@@ -6585,8 +11515,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Nando": {
       "ability": "Solar Power",
-      "index": 223,
+      "index": 105,
       "item": "Occa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Razor Leaf",
@@ -6600,8 +11538,16 @@ var SETDEX_SS = {
   "Surskit": {
     "Bug Catcher Brandon": {
       "ability": "Swift Swim",
-      "index": 214,
+      "index": 96,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "19",
       "moves": [
         "Bubble Beam",
@@ -6613,23 +11559,18 @@ var SETDEX_SS = {
     }
   },
   "Swalot": {
-    "Galactic Grunt #2 (Eterna Building)": {
-      "ability": "Gooey",
-      "index": 4,
-      "item": "Air Balloon",
-      "level": "30",
-      "moves": [
-        "Sludge Bomb",
-        "Ice Beam",
-        "Shadow Ball",
-        "Toxic Spikes"
-      ],
-      "nature": "Timid"
-    },
     "PKMN Breeder Jennifer": {
       "ability": "Gooey",
-      "index": 342,
+      "index": 422,
       "item": "Starf Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "43",
       "moves": [
         "Sludge Bomb",
@@ -6643,8 +11584,16 @@ var SETDEX_SS = {
   "Swampert": {
     "Twins Tori & Tia": {
       "ability": "Swift Swim",
-      "index": 409,
+      "index": 489,
       "item": "Rindo Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "High Horsepower",
@@ -6658,8 +11607,16 @@ var SETDEX_SS = {
   "Swellow": {
     "Bird Keeper Alexandra": {
       "ability": "Guts",
-      "index": 307,
+      "index": 185,
       "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "29",
       "moves": [
         "U-Turn",
@@ -6670,8 +11627,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Barry #4 turtwig": {
       "ability": "Guts",
-      "index": 385,
+      "index": 465,
       "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Facade",
@@ -6685,8 +11650,16 @@ var SETDEX_SS = {
   "Taillow": {
     "PKMN Trainer Barry #2 turtwig": {
       "ability": "Guts",
-      "index": 506,
+      "index": 32,
       "item": "Oran Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Wing Attack",
@@ -6696,26 +11669,42 @@ var SETDEX_SS = {
       "nature": "Jolly"
     }
   },
-  "Tangela": {
-    "Galactic Grunt #2 (Eterna Building)": {
-      "ability": "Chlorophyll",
-      "index": 6,
-      "item": "Eviolite",
-      "level": "30",
+  "Tangrowth": {
+    "Elite Four Flint": {
+      "ability": "Regenerator",
+      "index": 582,
+      "item": "Eject Pack",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
       "moves": [
-        "Ancient Power",
-        "Sludge Bomb",
-        "Giga Drain",
-        "Sleep Powder"
+        "Leaf Storm",
+        "Power Whip",
+        "Focus Blast",
+        "Knock Off"
       ],
-      "nature": "Modest"
+      "nature": "Relaxed"
     }
   },
   "Tauros": {
     "Cowgirl Shelley": {
       "ability": "Intimidate",
-      "index": 346,
+      "index": 426,
       "item": "White Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Body Slam",
@@ -6727,8 +11716,16 @@ var SETDEX_SS = {
     },
     "Cyclist Ryan": {
       "ability": "Intimidate",
-      "index": 45,
+      "index": 250,
       "item": "Muscle Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "34",
       "moves": [
         "Double-Edge",
@@ -6742,8 +11739,16 @@ var SETDEX_SS = {
   "Teddiursa": {
     "Aroma Lady Taylor": {
       "ability": "Quick Feet",
-      "index": 213,
+      "index": 95,
       "item": "Toxic Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Slash",
@@ -6757,8 +11762,16 @@ var SETDEX_SS = {
   "Tentacool": {
     "Worker Mason": {
       "ability": "Clear Body",
-      "index": 537,
+      "index": 63,
       "item": "Binding Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Venoshock",
@@ -6770,10 +11783,39 @@ var SETDEX_SS = {
     }
   },
   "Tentacruel": {
+    "Galactic Grunt #4 Eterna Building": {
+      "ability": "Clear Body",
+      "index": 217,
+      "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Bubble Beam",
+        "Venoshock",
+        "Toxic",
+        "Acupressure"
+      ],
+      "nature": "Calm"
+    },
     "Young Couple Ty & Sue": {
       "ability": "Clear Body",
-      "index": 351,
+      "index": 431,
       "item": "Black Sludge",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Sludge Bomb",
@@ -6785,10 +11827,18 @@ var SETDEX_SS = {
     }
   },
   "Togetic": {
-    "Galactic Grunt #2 (Floaroma Meadow)": {
+    "Galactic Grunt #2 Floaroma Meadow": {
       "ability": "Serene Grace",
-      "index": 231,
+      "index": 113,
       "item": "Berry Juice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Air Cutter",
@@ -6800,8 +11850,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Cheryl": {
       "ability": "Serene Grace",
-      "index": 264,
+      "index": 146,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Air Slash",
@@ -6815,8 +11873,16 @@ var SETDEX_SS = {
   "Torchic": {
     "PKMN Trainer Barry #2 chimchar": {
       "ability": "Speed Boost",
-      "index": 511,
+      "index": 37,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Flame Wheel",
@@ -6830,8 +11896,16 @@ var SETDEX_SS = {
     "P": {},
     "Picnicker Ana": {
       "ability": "Shell Armor",
-      "index": 90,
+      "index": 295,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Stealth Rock",
@@ -6845,8 +11919,16 @@ var SETDEX_SS = {
   "Torterra": {
     "Cyclist John": {
       "ability": "Shell Armor",
-      "index": 41,
+      "index": 246,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Rock Polish",
@@ -6858,8 +11940,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Barry #4 piplup": {
       "ability": "Overgrow",
-      "index": 390,
+      "index": 470,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Earthquake",
@@ -6871,8 +11961,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Dawn/Lucas chimchar": {
       "ability": "Shell Armor",
-      "index": 119,
+      "index": 324,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Seed Bomb",
@@ -6886,8 +11984,16 @@ var SETDEX_SS = {
   "Totodile": {
     "PKMN Trainer Barry #2 piplup": {
       "ability": "Sheer Force",
-      "index": 514,
+      "index": 40,
       "item": "Mystic Water",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Aqua Jet",
@@ -6899,8 +12005,16 @@ var SETDEX_SS = {
   "Toxicroak": {
     "Cyclist John": {
       "ability": "Poison Touch",
-      "index": 40,
+      "index": 245,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Fake Out",
@@ -6910,23 +12024,18 @@ var SETDEX_SS = {
       ],
       "nature": "Jolly"
     },
-    "Galactic Grunt #4 (Eterna Building)": {
-      "ability": "Poison Touch",
-      "index": 12,
-      "item": "Muscle Band",
-      "level": "30",
-      "moves": [
-        "Sludge Bomb",
-        "Brick Break",
-        "Fake Out",
-        "Mud Shot"
-      ],
-      "nature": "Hasty"
-    },
     "Leader Maylene": {
       "ability": "Poison Touch",
-      "index": 474,
+      "index": 554,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "50",
       "moves": [
         "Poison Jab",
@@ -6938,22 +12047,18 @@ var SETDEX_SS = {
     }
   },
   "Trapinch": {
-    "Galactic Grunt #1 (Eterna Building)": {
-      "ability": "Arena Trap",
-      "index": 3,
-      "item": "Focus Sash",
-      "level": "29",
-      "moves": [
-        "Earthquake",
-        "Rock Tomb",
-        "X-Scissor"
-      ],
-      "nature": "Brave"
-    },
     "Hiker Louis": {
       "ability": "Arena Trap",
-      "index": 305,
+      "index": 190,
       "item": "Quick Claw",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Bulldoze",
@@ -6965,8 +12070,16 @@ var SETDEX_SS = {
     },
     "Leader Roark": {
       "ability": "Arena Trap",
-      "index": 550,
+      "index": 79,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "16",
       "moves": [
         "Bulldoze",
@@ -6977,8 +12090,16 @@ var SETDEX_SS = {
     },
     "Ruin Maniac Karl": {
       "ability": "Arena Trap",
-      "index": 378,
+      "index": 458,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Earthquake",
@@ -6991,8 +12112,16 @@ var SETDEX_SS = {
   "Tropius": {
     "Camper Parker": {
       "ability": "Harvest",
-      "index": 93,
-      "item": "Life Orb",
+      "index": 298,
+      "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Body Slam",
@@ -7004,8 +12133,16 @@ var SETDEX_SS = {
     },
     "Lass Caroline": {
       "ability": "Harvest",
-      "index": 309,
+      "index": 191,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "28",
       "moves": [
         "Giga Drain",
@@ -7017,8 +12154,16 @@ var SETDEX_SS = {
     },
     "Twins Tori & Tia": {
       "ability": "Harvest",
-      "index": 410,
+      "index": 490,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Leaf Storm",
@@ -7033,8 +12178,16 @@ var SETDEX_SS = {
   "Turtwig": {
     "PKMN Trainer Barry #2 piplup": {
       "ability": "Shell Armor",
-      "index": 513,
+      "index": 39,
       "item": "King's Rock",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "10",
       "moves": [
         "Mega Drain",
@@ -7045,8 +12198,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Barry piplup": {
       "ability": "Shell Armor",
-      "index": 477,
+      "index": 3,
       "item": "-",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "5",
       "moves": [
         "Tackle",
@@ -7056,8 +12217,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul chimchar": {
       "ability": "Shell Armor",
-      "index": 150,
+      "index": 355,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Protect"
@@ -7066,10 +12235,39 @@ var SETDEX_SS = {
     }
   },
   "Typhlosion": {
+    "Elite Four Flint": {
+      "ability": "Flash Fire",
+      "index": 584,
+      "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "99",
+      "moves": [
+        "Eruption",
+        "Focus Blast",
+        "Scorching Sands",
+        "Extrasensory"
+      ],
+      "nature": "Timid"
+    },
     "Twins Emma & Lil": {
       "ability": "Blaze",
-      "index": 336,
+      "index": 416,
       "item": "Charcoal",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "41",
       "moves": [
         "Eruption"
@@ -7080,8 +12278,16 @@ var SETDEX_SS = {
   "Tyranitar": {
     "Leader Fantina": {
       "ability": "Arena Trap",
-      "index": 199,
+      "index": 403,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Rock Slide",
@@ -7095,8 +12301,16 @@ var SETDEX_SS = {
   "Tyrogue": {
     "Worker Colin": {
       "ability": "Guts",
-      "index": 534,
+      "index": 60,
       "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Brick Break",
@@ -7108,10 +12322,39 @@ var SETDEX_SS = {
     }
   },
   "Umbreon": {
+    "Galactic Grunt #3 Eterna Building": {
+      "ability": "Inner Focus",
+      "index": 215,
+      "item": "Focus Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "30",
+      "moves": [
+        "Night Shade",
+        "Double Kick",
+        "Mean Look",
+        "Moonlight"
+      ],
+      "nature": "Bold"
+    },
     "PKMN Breeder Jennifer": {
       "ability": "Inner Focus",
-      "index": 343,
+      "index": 423,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "43",
       "moves": [
         "Dark Pulse",
@@ -7125,11 +12368,19 @@ var SETDEX_SS = {
   "Unown": {
     "School Kid Christine": {
       "ability": "Levitate",
-      "index": 502,
+      "index": 28,
       "item": "Metronome",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 30,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "9",
       "moves": [
-        "HP (Electric)"
+        "Hidden Power Electric"
       ],
       "nature": "Timid"
     }
@@ -7137,8 +12388,16 @@ var SETDEX_SS = {
   "Ursaring": {
     "Leader Maylene": {
       "ability": "Quick Feet",
-      "index": 473,
+      "index": 553,
       "item": "Life Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "50",
       "moves": [
         "Facade",
@@ -7149,8 +12408,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Paul": {
       "ability": "Guts",
-      "index": 174,
+      "index": 379,
       "item": "Flame Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "40",
       "moves": [
         "Facade",
@@ -7164,8 +12431,16 @@ var SETDEX_SS = {
   "Venomoth": {
     "Fisherman Joseph": {
       "ability": "Tinted Lens",
-      "index": 290,
+      "index": 172,
       "item": "Poison Gem",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "26",
       "moves": [
         "Acid Spray",
@@ -7179,8 +12454,16 @@ var SETDEX_SS = {
   "Venusaur": {
     "PKMN Trainer Barry #4 turtwig": {
       "ability": "Thick Fat",
-      "index": 386,
+      "index": 466,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Sludge Bomb",
@@ -7194,8 +12477,16 @@ var SETDEX_SS = {
   "Vespiquen": {
     "Cowgirl Shelley": {
       "ability": "Unnerve",
-      "index": 348,
+      "index": 428,
       "item": "Charti Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "42",
       "moves": [
         "Bug Buzz",
@@ -7209,8 +12500,16 @@ var SETDEX_SS = {
   "Volbeat": {
     "Lass Cassidy": {
       "ability": "Prankster",
-      "index": 88,
+      "index": 293,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "32",
       "moves": [
         "Bug Buzz",
@@ -7222,8 +12521,16 @@ var SETDEX_SS = {
     },
     "Lass Kaitlin": {
       "ability": "Prankster",
-      "index": 525,
+      "index": 51,
       "item": "Berry Juice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Signal Beam",
@@ -7237,18 +12544,34 @@ var SETDEX_SS = {
   "Voltorb": {
     "Camper Zackary": {
       "ability": "Galvanize",
-      "index": 251,
+      "index": 133,
       "item": "Liechi Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "23",
       "moves": [
         "Explosion"
       ],
       "nature": "Bold"
     },
-    "Galactic Grunt #1 (Valley Windworks)": {
+    "Galactic Grunt #1 Valley Windworks": {
       "ability": "Soundproof",
-      "index": 234,
+      "index": 116,
       "item": "Magnet",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "19",
       "moves": [
         "Volt Switch",
@@ -7260,8 +12583,16 @@ var SETDEX_SS = {
     },
     "Youngster Dallas": {
       "ability": "Static",
-      "index": 518,
+      "index": 44,
       "item": "Assault Vest",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "13",
       "moves": [
         "Shock Wave",
@@ -7272,9 +12603,17 @@ var SETDEX_SS = {
   },
   "Vulpix": {
     "PKMN Trainer Nando": {
-      "ability": "Flame Body",
-      "index": 222,
+      "ability": "Drought",
+      "index": 104,
       "item": "Charti Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Fire Spin",
@@ -7288,8 +12627,16 @@ var SETDEX_SS = {
   "Wailmer": {
     "Fisherman Andrew": {
       "ability": "Rain Dish",
-      "index": 295,
+      "index": 177,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "26",
       "moves": [
         "Dive",
@@ -7301,8 +12648,16 @@ var SETDEX_SS = {
     },
     "PKMN Breeder Amber": {
       "ability": "Rain Dish",
-      "index": 413,
+      "index": 493,
       "item": "Choice Scarf",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Water Spout"
@@ -7313,8 +12668,16 @@ var SETDEX_SS = {
   "Walrein": {
     "Black Belt Gregory": {
       "ability": "Thick Fat",
-      "index": 435,
+      "index": 515,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Surf",
@@ -7326,8 +12689,16 @@ var SETDEX_SS = {
     },
     "PKMN Breeder Jennifer": {
       "ability": "Thick Fat",
-      "index": 344,
+      "index": 424,
       "item": "Sitrus Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "43",
       "moves": [
         "Icy Wind",
@@ -7341,8 +12712,16 @@ var SETDEX_SS = {
   "Weavile": {
     "Black Belt Rafael": {
       "ability": "Inner Focus",
-      "index": 456,
+      "index": 536,
       "item": "Never-Melt Ice",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "47",
       "moves": [
         "Fake Out",
@@ -7353,11 +12732,42 @@ var SETDEX_SS = {
       "nature": "Adamant"
     }
   },
+  "Weezing": {
+    "Commander Jupiter": {
+      "ability": "Levitate",
+      "index": 228,
+      "item": "Custap Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "level": "32",
+      "moves": [
+        "Venoshock",
+        "Gyro Ball",
+        "Scary Face",
+        "Destiny Bond"
+      ],
+      "nature": "Quiet"
+    }
+  },
   "Whiscash": {
     "Cyclist Axel": {
       "ability": "Simple",
-      "index": 26,
+      "index": 233,
       "item": "Rindo Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "High Horsepower",
@@ -7369,8 +12779,16 @@ var SETDEX_SS = {
     },
     "PKMN Breeder Amber": {
       "ability": "Simple",
-      "index": 414,
+      "index": 494,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "46",
       "moves": [
         "Earthquake",
@@ -7384,8 +12802,16 @@ var SETDEX_SS = {
   "Wingull": {
     "Twins Liv & Liz": {
       "ability": "Drizzle",
-      "index": 218,
+      "index": 100,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "17",
       "moves": [
         "Water Pulse",
@@ -7397,23 +12823,18 @@ var SETDEX_SS = {
     }
   },
   "Wobbuffet": {
-    "Galactic Grunt #4 (Eterna Building)": {
-      "ability": "Shadow Tag",
-      "index": 11,
-      "item": "Iapapa Berry",
-      "level": "30",
-      "moves": [
-        "Counter",
-        "Mirror Coat",
-        "Destiny Bond",
-        "Encore"
-      ],
-      "nature": "Calm"
-    },
     "Hiker Robert": {
       "ability": "Shadow Tag",
-      "index": 135,
+      "index": 340,
       "item": "Iapapa Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
         "Encore",
@@ -7425,8 +12846,16 @@ var SETDEX_SS = {
     },
     "PKMN Trainer Cheryl": {
       "ability": "Shadow Tag",
-      "index": 263,
+      "index": 145,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "24",
       "moves": [
         "Counter",
@@ -7438,8 +12867,16 @@ var SETDEX_SS = {
     },
     "Pok\u00e9fan Leonard": {
       "ability": "Shadow Tag",
-      "index": 361,
+      "index": 441,
       "item": "Lum Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "45",
       "moves": [
         "Mirror Coat",
@@ -7453,8 +12890,16 @@ var SETDEX_SS = {
   "Wormadam": {
     "Picnicker Karina": {
       "ability": "Filter",
-      "index": 259,
+      "index": 141,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Bug Bite",
@@ -7468,11 +12913,19 @@ var SETDEX_SS = {
   "Wormadam-Sandy": {
     "PKMN Trainer Dawn/Lucas turtwig": {
       "ability": "Filter",
-      "index": 112,
+      "index": 317,
       "item": "Coba Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "36",
       "moves": [
-        "Fissure",
+        "Earth Power",
         "Bug Buzz",
         "Rock Slide",
         "Substitute"
@@ -7481,8 +12934,16 @@ var SETDEX_SS = {
     },
     "Picnicker Karina": {
       "ability": "Filter",
-      "index": 260,
+      "index": 142,
       "item": "Power Herb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Bug Bite",
@@ -7496,8 +12957,16 @@ var SETDEX_SS = {
   "Wormadam-Trash": {
     "Picnicker Karina": {
       "ability": "Filter",
-      "index": 261,
+      "index": 143,
       "item": "Expert Belt",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "22",
       "moves": [
         "Bug Bite",
@@ -7511,8 +12980,16 @@ var SETDEX_SS = {
   "Wurmple": {
     "Lass Samantha": {
       "ability": "Tinted Lens",
-      "index": 495,
+      "index": 21,
       "item": "Choice Band",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "14",
       "moves": [
         "Bug Bite"
@@ -7523,8 +13000,16 @@ var SETDEX_SS = {
   "Wynaut": {
     "PKMN Breeder Kahlil": {
       "ability": "Shadow Tag",
-      "index": 407,
+      "index": 487,
       "item": "Leftovers",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "55",
       "moves": [
         "Mirror Coat",
@@ -7538,8 +13023,16 @@ var SETDEX_SS = {
   "Xatu": {
     "Psychic Diavolo": {
       "ability": "Synchronize",
-      "index": 163,
+      "index": 368,
       "item": "Petaya Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "38",
       "moves": [
         "Air Slash",
@@ -7551,8 +13044,16 @@ var SETDEX_SS = {
     },
     "Psychic Rachael": {
       "ability": "Synchronize",
-      "index": 288,
+      "index": 170,
       "item": "Wacan Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "25",
       "moves": [
         "Zen Headbutt",
@@ -7566,10 +13067,18 @@ var SETDEX_SS = {
     "s": {}
   },
   "Yanma": {
-    "Galactic Grunt #2 (Valley Windworks)": {
+    "Galactic Grunt #2 Valley Windworks": {
       "ability": "Speed Boost",
-      "index": 236,
+      "index": 118,
       "item": "Silver Powder",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "19",
       "moves": [
         "U-Turn",
@@ -7583,8 +13092,16 @@ var SETDEX_SS = {
   "Yanmega": {
     "Cyclist Megan": {
       "ability": "Speed Boost",
-      "index": 29,
+      "index": 234,
       "item": "Focus Sash",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "33",
       "moves": [
         "Swords Dance",
@@ -7593,13 +13110,42 @@ var SETDEX_SS = {
         "Dual Wingbeat"
       ],
       "nature": "Naive"
+    },
+    "Elite Four Aaron": {
+      "ability": "Tinted Lens",
+      "index": 558,
+      "item": "Rock Gem",
+      "ivs": {
+        "at": 30,
+        "df": 31,
+        "hp": 31,
+        "sa": 30,
+        "sd": 31,
+        "sp": 30
+      },
+      "level": "99",
+      "moves": [
+        "Air Slash",
+        "Bug Buzz",
+        "Ancient Power",
+        "Hidden Power Fire"
+      ],
+      "nature": "Modest"
     }
   },
   "Zangoose": {
     "Manager Mercury": {
       "ability": "Toxic Boost",
-      "index": 226,
+      "index": 108,
       "item": "Toxic Orb",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "18",
       "moves": [
         "Quick Attack",
@@ -7613,8 +13159,16 @@ var SETDEX_SS = {
   "Zigzagoon": {
     "Youngster Tristan": {
       "ability": "Quick Feet",
-      "index": 482,
+      "index": 8,
       "item": "Starf Berry",
+      "ivs": {
+        "at": 31,
+        "df": 31,
+        "hp": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
       "level": "7",
       "moves": [
         "Ice Beam"
