@@ -4110,38 +4110,7 @@ var SS_PATCH = {
     'X-Scissor': { maxPower: 130 },
     'Zap Cannon': { maxPower: 140 },
     'Zen Headbutt': { maxPower: 130 },
-    'Zing Zap': { maxPower: 130 }
-};
-var SS = (0, util_1.extend)(true, {}, SM, SS_PATCH);
-var LGPE_MOVES = [
-    'Baddy Bad',
-    'Bouncy Bubble',
-    'Buzzy Buzz',
-    'Freezy Frost',
-    'Glitzy Glow',
-    'Sappy Seed',
-    'Sizzly Slide',
-    'Sparkly Swirl',
-    'Zippy Zap',
-    'Floaty Fall',
-    'Pika Papow',
-    'Splishy Splash',
-    'Veevee Volley',
-];
-try {
-    for (var LGPE_MOVES_1 = __values(LGPE_MOVES), LGPE_MOVES_1_1 = LGPE_MOVES_1.next(); !LGPE_MOVES_1_1.done; LGPE_MOVES_1_1 = LGPE_MOVES_1.next()) {
-        var m = LGPE_MOVES_1_1.value;
-        delete SS[m];
-    }
-}
-catch (e_1_1) { e_1 = { error: e_1_1 }; }
-finally {
-    try {
-        if (LGPE_MOVES_1_1 && !LGPE_MOVES_1_1.done && (_a = LGPE_MOVES_1["return"])) _a.call(LGPE_MOVES_1);
-    }
-    finally { if (e_1) throw e_1.error; }
-}
-var SV_PATCH = {
+    'Zing Zap': { maxPower: 130 },
     'Aerial Ace': { isSlicing: true },
     'Air Cutter': { isSlicing: true, isWind: true },
     'Air Slash': { isSlicing: true },
@@ -4736,6 +4705,37 @@ var SV_PATCH = {
         isWind: true,
         target: 'allAdjacentFoes'
     }
+};
+var SS = (0, util_1.extend)(true, {}, SM, SS_PATCH);
+var LGPE_MOVES = [
+    'Baddy Bad',
+    'Bouncy Bubble',
+    'Buzzy Buzz',
+    'Freezy Frost',
+    'Glitzy Glow',
+    'Sappy Seed',
+    'Sizzly Slide',
+    'Sparkly Swirl',
+    'Zippy Zap',
+    'Floaty Fall',
+    'Pika Papow',
+    'Splishy Splash',
+    'Veevee Volley',
+];
+try {
+    for (var LGPE_MOVES_1 = __values(LGPE_MOVES), LGPE_MOVES_1_1 = LGPE_MOVES_1.next(); !LGPE_MOVES_1_1.done; LGPE_MOVES_1_1 = LGPE_MOVES_1.next()) {
+        var m = LGPE_MOVES_1_1.value;
+        delete SS[m];
+    }
+}
+catch (e_1_1) { e_1 = { error: e_1_1 }; }
+finally {
+    try {
+        if (LGPE_MOVES_1_1 && !LGPE_MOVES_1_1.done && (_a = LGPE_MOVES_1["return"])) _a.call(LGPE_MOVES_1);
+    }
+    finally { if (e_1) throw e_1.error; }
+}
+var SV_PATCH = {
 };
 var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH);
 exports.MOVES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];

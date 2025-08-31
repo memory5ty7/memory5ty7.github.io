@@ -324,9 +324,7 @@ var SS = SM.concat([
     'Transistor',
     'Unseen Fist',
     'Wandering Spirit',
-]);
-var SV = SS.concat([
-    'Anger Shell',
+        'Anger Shell',
     'Armor Tail',
     'Beads of Ruin',
     'Commander',
@@ -357,6 +355,8 @@ var SV = SS.concat([
     'Wind Power',
     'Wind Rider',
     'Zero to Hero',
+]);
+var SV = SS.concat([
 ]);
 exports.ABILITIES = [[], RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
 var Abilities = (function () {

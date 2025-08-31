@@ -511,6 +511,11 @@ var SS = SM.concat([
     'Sweet Apple',
     'Tart Apple',
     'Throat Spray',
+
+    'Clear Amulet',
+    'Covert Cloak',
+    'Loaded Dice',
+    'Punching Glove',
 ]);
 for (var i = 0; i < 100; i++) {
     SS.push("TR".concat(i < 10 ? "0".concat(i) : i));
@@ -522,12 +527,8 @@ var SV = SS.concat([
     'Auspicious Armor',
     'Ability Shield',
     'Booster Energy',
-    'Clear Amulet',
-    'Covert Cloak',
-    'Loaded Dice',
     'Malicious Armor',
     'Mirror Herb',
-    'Punching Glove',
     'Lustrous Globe',
     'Griseous Core',
     'Strange Ball',
