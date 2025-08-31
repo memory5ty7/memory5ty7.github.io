@@ -171,7 +171,7 @@ var SETDEX_SS = {
       "level": "23",
       "moves": [
         "Double Hit",
-        "U-Turn",
+        "U-turn",
         "Aerial Ace",
         "Fake Out"
       ],
@@ -283,7 +283,7 @@ var SETDEX_SS = {
         "Fake Out",
         "Giga Impact",
         "Knock Off",
-        "U-Turn"
+        "U-turn"
       ],
       "nature": "Adamant"
     }
@@ -648,7 +648,7 @@ var SETDEX_SS = {
       "moves": [
         "Psychic",
         "Fire Blast",
-        "U-Turn",
+        "U-turn",
         "Reflect"
       ],
       "nature": "Modest"
@@ -1888,7 +1888,7 @@ var SETDEX_SS = {
       "level": "36",
       "moves": [
         "Heat Wave",
-        "U-Turn",
+        "U-turn",
         "Brave Bird",
         "Uproar"
       ],
@@ -3298,7 +3298,7 @@ var SETDEX_SS = {
       },
       "level": "14",
       "moves": [
-        "U-Turn"
+        "U-turn"
       ],
       "nature": "Sassy + 0 Spe IV"
     }
@@ -3713,7 +3713,7 @@ var SETDEX_SS = {
       },
       "level": "46",
       "moves": [
-        "U-Turn",
+        "U-turn",
         "Drill Peck",
         "Drill Run",
         "Roost"
@@ -3782,7 +3782,7 @@ var SETDEX_SS = {
       "level": "14",
       "moves": [
         "Water Pulse",
-        "U-Turn",
+        "U-turn",
         "Whirlpool",
         "Attract"
       ],
@@ -5863,7 +5863,7 @@ var SETDEX_SS = {
       "level": "30",
       "moves": [
         "Leaf Storm",
-        "U-Turn",
+        "U-turn",
         "Sleep Powder",
         "Leech Seed"
       ],
@@ -6678,7 +6678,7 @@ var SETDEX_SS = {
       },
       "level": "25",
       "moves": [
-        "U-Turn"
+        "U-turn"
       ],
       "nature": "Adamant"
     }
@@ -8863,7 +8863,7 @@ var SETDEX_SS = {
       "moves": [
         "Hurricane",
         "Hydro Pump",
-        "U-Turn",
+        "U-turn",
         "Whirlpool"
       ],
       "nature": "Naive"
@@ -8906,7 +8906,7 @@ var SETDEX_SS = {
       "moves": [
         "Water Pulse",
         "Pluck",
-        "U-Turn",
+        "U-turn",
         "Icy Wind"
       ],
       "nature": "Quiet"
@@ -8927,7 +8927,7 @@ var SETDEX_SS = {
       "moves": [
         "Weather Ball",
         "Hurricane",
-        "U-Turn",
+        "U-turn",
         "Ice Beam"
       ],
       "nature": "Bold"
@@ -9213,7 +9213,7 @@ var SETDEX_SS = {
         "Pin Missile",
         "Rock Blast",
         "Arm Thrust",
-        "U-Turn"
+        "U-turn"
       ],
       "nature": "Adamant"
     },
@@ -9649,7 +9649,7 @@ var SETDEX_SS = {
         "Fake Out",
         "Body Slam",
         "Sucker Punch",
-        "U-Turn"
+        "U-turn"
       ],
       "nature": "Jolly"
     }
@@ -10879,7 +10879,7 @@ var SETDEX_SS = {
       "level": "17",
       "moves": [
         "Mega Drain",
-        "U-Turn",
+        "U-turn",
         "Leech Seed",
         "Tailwind"
       ],
@@ -11418,7 +11418,7 @@ var SETDEX_SS = {
       "moves": [
         "Brave Bird",
         "Close Combat",
-        "U-Turn"
+        "U-turn"
       ],
       "nature": "Adamant"
     },
@@ -11458,7 +11458,7 @@ var SETDEX_SS = {
       },
       "level": "29",
       "moves": [
-        "U-Turn",
+        "U-turn",
         "Quick Attack",
         "Wing Attack",
         "Roost"
@@ -11742,7 +11742,7 @@ var SETDEX_SS = {
       },
       "level": "29",
       "moves": [
-        "U-Turn",
+        "U-turn",
         "Facade",
         "Wing Attack"
       ],
@@ -13204,7 +13204,7 @@ var SETDEX_SS = {
       },
       "level": "19",
       "moves": [
-        "U-Turn",
+        "U-turn",
         "Air Cutter",
         "Ancient Power",
         "Hypnosis"
