@@ -2335,7 +2335,7 @@ var SETDEX_SS = {
         "hp": 31,
         "sa": 31,
         "sd": 31,
-        "sp": 31
+        "sp": 0
       },
       "level": "99",
       "moves": [
@@ -3598,7 +3598,7 @@ var SETDEX_SS = {
         "hp": 31,
         "sa": 31,
         "sd": 31,
-        "sp": 31
+        "sp": 0
       },
       "level": "99",
       "moves": [
@@ -5110,7 +5110,7 @@ var SETDEX_SS = {
         "hp": 31,
         "sa": 31,
         "sd": 31,
-        "sp": 31
+        "sp": 0
       },
       "level": "99",
       "moves": [
@@ -6644,14 +6644,14 @@ var SETDEX_SS = {
     "Elite Four Lucian Double": {
       "ability": "Multiscale",
       "index": 598,
-      "item": "Leftovers",
+      "item": "Iron Ball",
       "ivs": {
         "at": 31,
         "df": 31,
         "hp": 31,
         "sa": 31,
         "sd": 31,
-        "sp": 31
+        "sp": 0
       },
       "level": "100",
       "moves": [
@@ -7692,7 +7692,7 @@ var SETDEX_SS = {
         "hp": 31,
         "sa": 31,
         "sd": 31,
-        "sp": 31
+        "sp": 0
       },
       "level": "99",
       "moves": [
@@ -7715,7 +7715,7 @@ var SETDEX_SS = {
         "hp": 31,
         "sa": 31,
         "sd": 31,
-        "sp": 31
+        "sp": 0
       },
       "level": "99",
       "moves": [
