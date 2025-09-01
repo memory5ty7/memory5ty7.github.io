@@ -4299,9 +4299,6 @@ var SETDEX_SS = {
       ],
       "nature": "Sassy"
     },
-    "s": {}
-  },
-  "Gastrodon-East": {
     "Elite Four Flint": {
       "ability": "Storm Drain",
       "index": 580,
@@ -4322,7 +4319,10 @@ var SETDEX_SS = {
         "Spikes"
       ],
       "nature": "Bold"
-    }
+    },
+    "s": {}
+  },
+  "Gastrodon-East": {
   },
   "Gengar": {
     "Leader Fantina": {
